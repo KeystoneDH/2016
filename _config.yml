@@ -1,0 +1,12 @@
+# Site settings
+title: Keystone Digital Humanities Conference 2016
+email: contact@keystonedh.org
+description: > # this means to ignore newlines until "baseurl:"
+  The 2016 Keystone Digital Humanities Conference will be held at the University Library System's Digital Scholarship Commons at the University of Pittsburgh, June 22-24, 2016.
+baseurl: "/2016" # the subpath of your site, e.g. /blog/
+url: "http://keystonedh.org" # the base hostname & protocol for your site
+twitter_username: KeystoneDH
+github_username:  KeystoneDH
+
+# Build settings
+markdown: kramdown
