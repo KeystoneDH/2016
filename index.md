@@ -16,19 +16,19 @@ On Twitter? Follow the Keystone DH hashtag [#keydh](https://twitter.com/search?f
 
 ### Conference Organizing Committee
 
-- Matthew Shoemaker, Temple University
-- Delphine Khanna, Temple University
-- Cathleen Lu, Chemical Heritage Foundation
-- Patricia Hswe, Penn State University
-- Elaine Parsons, Duquesne University
-- Tom Lombardi, Washington & Jefferson College
-- Aaron Mauro, Penn State University
-- Patrick Juola, Duquesne University
-- Sandra Stelts, Penn State University
-- Elisa Beshero-Bondar, University of Pittsburgh at Greensberg
-- Alison Langmead, University of Pittsburgh
+- Elisa Beshero-Bondar, University of Pittsburgh at Greensburg
 - Matt Burton, University of Pittsburgh
-- Matt Lavin, University of Pittsburgh
-- Scott Weingart, Carnegie Mellon University
-- Dot Porter, University of Pennsylvania
+- Patricia Hswe, Penn State University
 - Diane Jakacki, Bucknell University
+- Patrick Juola, Duquesne University
+- Delphine Khanna, Temple University
+- Alison Langmead, University of Pittsburgh
+- Matt Lavin, University of Pittsburgh
+- Tom Lombardi, Washington & Jefferson College
+- Cathleen Lu, Chemical Heritage Foundation
+- Aaron Mauro, Penn State University
+- Elaine Parsons, Duquesne University
+- Dot Porter, University of Pennsylvania
+- Matthew Shoemaker, Temple University
+- Sandra Stelts, Penn State University
+- Scott Weingart, Carnegie Mellon University
