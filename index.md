@@ -8,7 +8,7 @@ layout: default
 
 The Keystone Digital Humanities Conference will be held at the University of Pittsburgh on June 22-24, 2016.
 
-**Please see the CFP and submit your proposals [here] (http://keystonedh.github.io/2016/cfp/). The proposals/abstracts are due February 1, 2016**
+**Please see the CFP and submit your proposals [here](http://keystonedh.github.io/2016/cfp/). The proposals/abstracts are due February 1, 2016**
 
 The program will consist of long presentations (20 minutes), short presentations (7 minutes), project showcases (10 minutes) and workshops (various lengths) in all areas of digital humanities. Presentations may take the form of interactive presentations, short papers, project demos, panel discussions or workshops. Presenters will include emerging and veteran students, teachers, and scholars.
 
