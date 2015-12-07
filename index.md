@@ -6,7 +6,7 @@ layout: default
 ![Pittsburgh](images/pittsburgh.jpg){: .center-image }
 *[Pittsburgh Skyline Silhouette by Patrick Reddick](https://flic.kr/p/b3G3NR) [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/)*
 
-The Keystone Digital Humanities Conference will be held at the University of Pittsburgh on June 22-24, 2016.
+The Keystone Digital Humanities Conference will be held at the University of Pittsburgh on June 22-24, 2016. 
 
 **Please see the CFP and submit your proposals [here](http://keystonedh.github.io/2016/cfp/). The proposals/abstracts are due February 1, 2016.**
 
@@ -32,3 +32,5 @@ On Twitter? Follow the Keystone DH hashtag [#keydh](https://twitter.com/search?f
 - Matthew Shoemaker, Temple University
 - Sandra Stelts, Penn State University
 - Scott Weingart, Carnegie Mellon University
+
+KeystoneDH is committed to advancing collaborative scholarship in the Digital Humanities among Pennsylvania-based institutions of Higher Education. Our goal is to encourage community and collaboration among Pennsylvania-based institutions of higher education engaged in Digital Humanities Research or Pedagogy. We invite schools and constituents within schools to participate across traditional “peer institution” or categorical divide, as well as across faculty, staff, and students (undergraduate and graduate) as well as independent scholars.
