@@ -50,6 +50,19 @@ $on-laptop:        800px;
     display: block;
 }
 
+.flush-left
+{
+    width:40%;
+    height:auto;
+    float: left;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.clearfix {
+    overflow: auto;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
