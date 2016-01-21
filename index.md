@@ -28,6 +28,18 @@ The proposals/abstracts are due **February 1, 2016**.
 
 The program will consist of long presentations (20 minutes), short presentations (7 minutes), project showcases (10 minutes) and workshops (various lengths) in all areas of digital humanities. Presentations may take the form of interactive presentations, short papers, project demos, panel discussions or workshops. Presenters will include emerging and veteran students, teachers, and scholars.
 
+---
+**Student Bursaries!**
+
+Financial bursaries will be awarded to some students to help cover their conference expenses. This will include a conference fee waiver and some funds to cover travel and living expenses partially. *Note that only students who are submitting a presentation/demo/showcase/workshop proposal will be considered.*
+
+We encourage you to apply! Please fill out the application by **March 15:**  
+[http://goo.gl/forms/g1uDbbrKOS](http://goo.gl/forms/g1uDbbrKOS)
+
+---
+
+
+
 On Twitter? Follow the Keystone DH hashtag [#keydh](https://twitter.com/search?f=tweets&vertical=default&q=%23keydh&src=typd)
 
 ### Conference Organizing Committee
