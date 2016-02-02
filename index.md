@@ -22,9 +22,9 @@ The Keystone Digital Humanities Conference will be held at the University of Pit
 </div>
 
 ---
-Please see the CFP and **[submit your proposals here](http://keystonedh.github.io/2016/cfp/)**. 
-
 **DEADLINE EXTENDED** The proposals/abstracts are due **February 8, 2016**.
+
+Please see the CFP and **[submit your proposals here](http://keystonedh.github.io/2016/cfp/)**. 
 
 The program will consist of long presentations (20 minutes), short presentations (7 minutes), project showcases (10 minutes) and workshops (various lengths) in all areas of digital humanities. Presentations may take the form of interactive presentations, short papers, project demos, panel discussions or workshops. Presenters will include emerging and veteran students, teachers, and scholars.
 
