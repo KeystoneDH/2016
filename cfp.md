@@ -15,6 +15,8 @@ The EXTENDED proposal deadline is **February 8, 2016**. Proposers will be notifi
 
 Please submit your name, email address, title of your proposed presentation (or showcase/workshop/panel) and a proposal of 200-300 words in the form below.
 
+## Student Bursaries
+
 We will be offering a number of student bursaries in support of presenting a paper or a showcase at the conference. This will include a conference fee waiver and some funds to partially cover travel and living expenses. Note that only students who are submitting a presentation/demo/showcase/workshop proposal will be considered. [Click here to apply for this financial assistance]( http://goo.gl/forms/g1uDbbrKOS). Applications are due on **March 15th.**
 
 
