@@ -11,7 +11,7 @@ We invite proposals for long presentations (20 minutes), short presentations (7 
 
 We encourage submissions on all aspects of using and/or studying digital computation within the interpretive context of the humanities, but especially on the role of **communities of collaboration** and faceted teamwork across disciplines within this area of scholarly inquiry.
 
-The proposal deadline is **February 1, 2016**. Proposers will be notified by **March 1, 2016**.
+The EXTENDED proposal deadline is **February 8, 2016**. Proposers will be notified by **March 1, 2016**.
 
 Please submit your name, email address, title of your proposed presentation (or showcase/workshop/panel) and a proposal of 200-300 words in the form below.
 
