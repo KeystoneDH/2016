@@ -20,6 +20,9 @@ Please submit your name, email address, title of your proposed presentation (or 
 We will be offering a number of student bursaries in support of presenting a paper or a showcase at the conference. This will include a conference fee waiver and some funds to partially cover travel and living expenses. Note that only students who are submitting a presentation/demo/showcase/workshop proposal will be considered. [Click here to apply for this financial assistance]( http://goo.gl/forms/g1uDbbrKOS). Applications are due on **March 15th.**
 
 
+## Submissions have been closed. Please stay tuned for registration!
 
 
+<!---
 <iframe src="https://docs.google.com/forms/d/1B1pJ-rrBNGOBBiVwKQlwY0vP6MYRODcW-_GgFGv7tOA/viewform?embedded=true#start=embed" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+--->
