@@ -23,7 +23,7 @@ The Keystone Digital Humanities Conference will be held at the University of Pit
 
 ---
 
-**Submissions are closed.** Please stay tuned for registration!
+### **Submissions are closed.** Please stay tuned for registration!
 
 ---
 **Student Bursaries!**
