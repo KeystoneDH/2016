@@ -2,7 +2,7 @@
 layout: page
 title: Call For Proposals
 permalink: /cfp/
-published: true
+published: false
 ---
 
 The Keystone Digital Humanities conference will be held at the University of Pittsburgh in Pittsburgh, Pennsylvania, from **June 22-24, 2016.**
