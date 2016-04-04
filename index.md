@@ -6,7 +6,7 @@ layout: default
 ![Pittsburgh](images/pittsburgh.jpg){: .center-image }
 *[Pittsburgh Skyline Silhouette by Patrick Reddick](https://flic.kr/p/b3G3NR) [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/)*
 
-The Keystone Digital Humanities Conference will be held at the University of Pittsburgh on June 22-24, 2016. 
+The Keystone Digital Humanities Conference will be held at the University of Pittsburgh on June 22-24, 2016.
 
 ---
 
@@ -28,6 +28,13 @@ The Keystone Digital Humanities Conference will be held at the University of Pit
 The program will consist of long presentations (20 minutes), short presentations (7 minutes), project showcases (10 minutes) and workshops (various lengths) in all areas of digital humanities. Presentations may take the form of interactive presentations, short papers, project demos, panel discussions or workshops. Presenters will include emerging and veteran students, teachers, and scholars.
 
 On Twitter? Follow the Keystone DH hashtag [#keydh](https://twitter.com/search?f=tweets&vertical=default&q=%23keydh&src=typd)
+
+### Digital Mitford Coding School
+
+We invite you to join members of the Digital Mitford project team from Saturday June 25 through Monday June 27, 2016 for the Fourth Annual Workshop Series and Coding School, hosted by the newly established Center for the Digital Text at the University of Pittsburgh at Greensburg.
+
+[Please visit the Digital Mitford page for more information.](https://digitalmitford.wordpress.com/2016/02/29/digital-mitford-coding-school-june-25-27-2016/)
+
 
 ### Conference Organizing Committee
 
