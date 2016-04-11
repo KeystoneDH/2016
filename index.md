@@ -23,7 +23,7 @@ The Keystone Digital Humanities Conference will be held at the University of Pit
 
 ---
 
-Registration is now open!
+**Registration is now open!**
 
 ## ***[CLICK HERE TO REGISTER!](https://www.regonline.com/keystoneDH2016)***
 
