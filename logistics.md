@@ -57,50 +57,31 @@ Each apartment consists of 4 single bedrooms, two bathrooms, a living and Kitche
 
 Parking is not included, but reduced rate passes can be obtained from the Parking and Transportation Department. We will provide further information for participants staying in the dorms.
 
-If you are interested in staying in the dormitory please fill out our [Bouquet Gardens Request Form](https://docs.google.com/forms/d/1zAVv8DuK6K92nr8M93-rNWkR8LM-wOsqBvmqsO2NoKI/viewform).
+If you are interested in staying in the dormitory please fill out the form below:
 
-***[CLICK HERE FOR THE DORMITORY REQUEST FORM](https://docs.google.com/forms/d/1zAVv8DuK6K92nr8M93-rNWkR8LM-wOsqBvmqsO2NoKI/viewform)***
+***[CLICK HERE FOR THE Bouquet Gardens REQUEST FORM](https://docs.google.com/forms/d/1zAVv8DuK6K92nr8M93-rNWkR8LM-wOsqBvmqsO2NoKI/viewform)***
 
 **Address**: [300 S Bouquet St, Pittsburgh, PA 15213 (map)](https://www.google.com/maps/place/Bouquet+Gardens/@40.4407467,-79.9561969,18.14z/data=!4m2!3m1!1s0x8834f22828e6cf47:0xf87ad7d708e7458e)
 
 
 
+## Getting Around
 
-<!--
-## Parking
+### Transportation From the Airport
 
+There are multiple transportation options fro the [Pittsburgh International Airport](http://www.flypittsburgh.com/transportation) to the city.
 
-For guest parking information please contact the Parking and Transportation Department : <http://www.pts.pitt.edu/parking/contact.html>
+- [Public Transportation](http://www.flypittsburgh.com/public_transportation) from the airpot to the Oakland neighborhood via the 28X Airport Flyer. This bus runs right by the hotel and dormitory.
+- [Taxis](http://www.flypittsburgh.com/limousines_taxis_buses) are available and usually run around $50-$60.
+- [Uber](https://www.uber.com/) and [Lyft](https://www.lyft.com/) are both available at the Airport. The cost is usually around $40-$50, depending upon surge pricing.
 
+### Parking
 
+For attendees who are not staying at the hotel or dormitory, there are mutple parking options in Oakland near the conference accommodations and venue.
 
-## Travel
-
-There are many ways to get to Pittsburgh! Planes! Trains! and  Automobiles!
-
-### Plane
-
-[Pittsburgh International Airport(PIT)](http://www.flypittsburgh.com/)
-
-- [Public Transportation](http://www.flypittsburgh.com/public_transportation) via the 28X Airport Flyer. This bus runs very close to the reserved accommodations and Hillman Library.
-- Taxis are available and usually run around $60.
-- Uber and Lyft are both supported at the Airport. Cost is usually around $40-$50
+- Visit the University of Pittsburgh's [Visitor Parking Website](http://www.pts.pitt.edu/parking/visitor.html) for more information.
 
 
-### Train
+### Public Transportation around Pittsburgh
 
-Pittsburgh has an Amtrak stations located downtown. participants arriving by train will need to take a taxi, ride-share, or public transportation get to the Oakland neighborhood.
-
-- [Pittsbugh Amtrak Station(PGH)](https://www.amtrak.com/servlet/ContentServer?pagename=am/am2Station/Station_Page&code=PGH)
-
-### Automobile
-
-Parking options in Oakland near the conference accommodations and venue:
-
-- [Parking near Hillman Library](http://www.library.pitt.edu/other/files/pdf/parking/visitor-parking-map-2013.pdf)
-
-### Public Transportation
-
-Pittsburgh has an extensive bus system run by the [Port Authority](http://www.portauthority.org/paac/default.aspx)
-
--->
+Pittsburgh has an extensive bus system run by the [Port Authority](http://www.portauthority.org/paac/default.aspx). The bus fair is $2.50. Please see their [schedules and maps](http://www.portauthority.org/paac/SchedulesMaps/TripPlanner.aspx) page for more information about getting around.
