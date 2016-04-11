@@ -23,9 +23,12 @@ The Keystone Digital Humanities Conference will be held at the University of Pit
 
 ---
 
-### **Submissions are closed.** Please stay tuned for registration!
+Registration is now open!
 
-The program will consist of long presentations (20 minutes), short presentations (7 minutes), project showcases (10 minutes) and workshops (various lengths) in all areas of digital humanities. Presentations may take the form of interactive presentations, short papers, project demos, panel discussions or workshops. Presenters will include emerging and veteran students, teachers, and scholars.
+## ***[CLICK HERE TO REGISTER!](https://www.regonline.com/keystoneDH2016)***
+
+---
+
 
 On Twitter? Follow the Keystone DH hashtag [#keydh](https://twitter.com/search?f=tweets&vertical=default&q=%23keydh&src=typd)
 
