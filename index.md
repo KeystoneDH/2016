@@ -55,7 +55,6 @@ We invite you to join members of the Digital Mitford project team from Saturday 
 - Elaine Parsons, Duquesne University
 - Dot Porter, University of Pennsylvania
 - Matthew Shoemaker, Temple University
-- Sandra Stelts, Penn State University
 - Scott Weingart, Carnegie Mellon University
 
 KeystoneDH is committed to advancing collaborative scholarship in the Digital Humanities among Pennsylvania-based institutions of Higher Education. Our goal is to encourage community and collaboration among Pennsylvania-based institutions of higher education engaged in Digital Humanities Research or Pedagogy. We invite schools and constituents within schools to participate across traditional “peer institution” or categorical divide, as well as across faculty, staff, and students (undergraduate and graduate) as well as independent scholars.
