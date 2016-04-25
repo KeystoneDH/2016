@@ -128,7 +128,7 @@ published: false
 
 **Friday 11am - 12:30pm**
 
-1. Regional DH Consortia as an Intermediate Organization for DH Work - *John Theibault* ([abstract](/2016/abstracts/#submission-20))
+<!--1. Regional DH Consortia as an Intermediate Organization for DH Work - *John Theibault* ([abstract](/2016/abstracts/#submission-20))-->
 1. Git Started! - *Rebecca Parker* ([abstract](/2016/abstracts/#submission-37))
 1. Building and Managing a Digital English Studio: Collaborative Aspects - *Stuart Selber, Daniel Tripp, Leslie Mateer* ([abstract](/2016/abstracts/#submission-44))
 1. R for Humanists: A Git Repository and Tutorial Approach - *Tassie Gniady, Grace Thomas* ([abstract](/2016/abstracts/#submission-49))
