@@ -14,35 +14,59 @@ published: false
 
 ## Wednesday June 22
 
-**Wednesday 10am - 11:30am**
+**Wednesday 8:30 - 9:30am**
+
+* Registration (with coffee and light breakfast)
+
+
+**Wednesday 9:30 - 10am**
+
+* Opening Remarks
+
+
+**Wednesday 10 - 11:30am Long Papers (Session 1)**
 
 1. Augmenting the Historic House Museum: The Impact of Community Partnership and Augmented Reality on Visitor Experience at Riversdale House - *Quint Gregory, Nicole Riesenberger, and Caroline Paganussi* ([abstract](/2016/abstracts/#submission-36))
-1. Tracing the Influence of "The Right to Privacy - *Susan Tanner* ([abstract](/2016/abstracts/#submission-47))
-1. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan, Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48))
+1. Tracing the Influence of "The Right to Privacy" - *Susan Tanner* ([abstract](/2016/abstracts/#submission-47))
+1. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48))
 
 
-**Wednesday 10am - 11:30am**
+**Wednesday 10 - 11:30am Panel Presentation (Session 2)**
 
-1. Videogame Adaptation - *Bradley J. Fest, Kevin M. Flanagan, Jedd Hakimi* ([abstract](/2016/abstracts/#submission-5))
+1. Videogame Adaptation - *Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi* ([abstract](/2016/abstracts/#submission-5))
 
 
-**Wednesday 1:30pm - 3pm**
+**Wednesday 11:30am - 1:30pm**
 
-1. Tag-Team Teaching a DH-Inflected Diversity Course - *Linda Troost, HJ Manzari, Christy Shaughnessy, Susan Vdovichenko, Charles Hannon* ([abstract](/2016/abstracts/#submission-23))
+* Lunch
+
+
+**Wednesday 1:30 - 3pm Long Papers (Session 3)**
+
+1. Tag-Team Teaching a DH-Inflected Diversity Course - *Linda Troost, HJ Manzari, Christy Shaughnessy, Susan Vdovichenko, and Charles Hannon* ([abstract](/2016/abstracts/#submission-23))
 1. Effects of Task Complexity on ESL Students’ Argumentative Writing: Using DocuScope as a Tool for Analyzing Students’ Writing - *Maria Pia Gomez-Laich* ([abstract](/2016/abstracts/#submission-24))
 
 
-**Wednesday 1:30pm - 3pm**
+**Wednesday 1:30 - 3pm Long Papers (Session 4)**
 
 1. "What Does It Matter Where One Lives?": Spatial Mapping and Edith Wharton's _The Age of Innocence_ - *Meredith Goldsmith* ([abstract](/2016/abstracts/#submission-32))
-1. Translation analysis with TEI: Robert Southey’s Amadis of Gaul - *Stacey Triplette, Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42))
+1. Translation analysis with TEI: Robert Southey’s Amadis of Gaul - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42))
 1. German POWs in the Soviet Gulag: Mapping Their Experiences, 1941-1956 - *Susan Grunewald* ([abstract](/2016/abstracts/#submission-46))
 
 
-**Wednesday 1:30pm - 3pm**
+**Wednesday 1:30pm - 3pm Workshop (Session 5)**
 
 1. Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, Carol Singer* ([abstract](/2016/abstracts/#submission-43))
 
+
+**Wednesday 3pm - 5pm**
+
+* Tours in and around Pitt's beautiful neighborhood, Oakland. Locations soon to be announced.
+
+**Wednesday 5pm Keynote (and reception)**
+
+* Roopika Risam, "Only Collaborate! Postcolonial Imperatives for Community in the Digital Humanities."
+* The keynote address will be followed by a reception
 
 ## Thursday June 23
 
