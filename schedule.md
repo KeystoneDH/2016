@@ -108,7 +108,7 @@ published: false
 **Friday 9am - 10:30am**
 
 1. Taking Flight: expanding a crowdsourcing program in support of new research - *Mark Anderson* ([abstract](/2016/abstracts/#submission-25))
-1. On the Diversity of Digital Decay (REVISED) - *Robert Sieczkiewicz* ([abstract](/2016/abstracts/#submission-40))
+1. On the Diversity of Digital Decay - *Robert Sieczkiewicz* ([abstract](/2016/abstracts/#submission-40))
 1. Interdisciplinary Approaches to Metadata - *Tom Lombardi* ([abstract](/2016/abstracts/#submission-52))
 
 
