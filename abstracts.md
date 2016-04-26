@@ -13,7 +13,7 @@ published: false
 
 ## Long Presentations
 
-#### Digital Text Encoding of Eighteenth-Century French Novels Reveals Modern Misconceptions About Narrative Structure
+#### Digital Text Encoding of 18th-Century French Novels Reveals Modern Misconceptions About Narrative Structure
 {: #submission-2}
 
 *Benjamin H. Baker*
@@ -29,7 +29,7 @@ In this 20-minute presentation, I will introduce and invite discussion of intera
 
 In addition to identifying the most frequently occurring topics in the corpus (including pedagogical theory, philosophy of language, and identity construction), I will explore multi-topic clusters emerging from visualizations of topic-topic similarity. Such clusters both complicate and support impressions of subject matter derived from the frequency of individual topics alone; they also help focus further study into subtle distinctions of terminology used in discussing related subjects. In the case of this corpus, data visualizations based on topic co-occurrence within dissertations suggest that combinations across topic clusters are common, but not evenly distributed. “Missing” combinations can then suggest new possibilities for future dissertation research, making this kind of visualization not only an analytical tool, but a generative one.
 
-#### “Representing the un/der-represented: Using data visualization to explore diversity and inclusion for academic library collections” (Short Presentation)
+#### Representing the Un/der-represented: Using Data Visualization to Explore Diversity and Inclusion for Academic Library Collections
 {: #submission-4}
 
 *Bobby L. Smiley*
@@ -80,9 +80,7 @@ The purpose of this paper is to explore the purposes of such informal geographic
 
 *Jonathan D. Fitzgerald*
 
-**I am sorry this is a day late, and understand if it is thus disqualified from consideration.**
-
-As part of the Viral Texts Project my colleagues and I study 19th century newspaper content specifically through the lens of virality. In US newspapers from the 1830s to 1890s, for example, we identified more than 1.7 million reprinted texts, but the clustering algorithm only tells us that these texts were reprinted. The researcher interested in specific genres such as poems, recipes, or advice columns, still must search and browse an enormous corpus to find what they seek. To that end, we have begun to computationally classify these texts by genre.
+As part of the Viral Texts Project my colleagues and I study 19th-century newspaper content specifically through the lens of virality. In US newspapers from the 1830s to 1890s, for example, we identified more than 1.7 million reprinted texts, but the clustering algorithm only tells us that these texts were reprinted. The researcher interested in specific genres such as poems, recipes, or advice columns, still must search and browse an enormous corpus to find what they seek. To that end, we have begun to computationally classify these texts by genre.
 
 In order to begin mapping genres in a corpus of 19th century newspapers, I am utilizing an innovative classification method rooted in Natural Language Processing developed in collaboration with Benjamin Schmidt, Assistant Professor of History at Northeastern University. This paper argues that using a method that combines text analysis tools such as topic modeling and logistic regression, a successful genre classifier can be trained. Using topic models as opposed to tokens as the classifiers is beneficial in that it logically limits the variables while also being human-readable.
 
@@ -91,9 +89,7 @@ My paper will show how I utilized this approach, first by hand-tagging a selecti
 #### Tag-Team Teaching a DH-Inflected Diversity Course
 {: #submission-23}
 
-*Linda Troost, HJ Manzari, Christy Shaughnessy, Susan Vdovichenko, Charles Hannon*
-
-We would like to give a 20-minute talk about a successful pedagogical “community of collaboration” and example of “teamwork across disciplines” at Washington & Jefferson College.
+*Linda Troost, HJ Manzari, Christy Shaughnessy, Susan Vdovichenko, and Charles Hannon*
 
 Five faculty members from four departments (Computer and Information Science, English, Russian, and Spanish) created and taught “Identity, Ethnicity, and the Digital Humanities,” a course for undergraduates in which technological tools were used to investigate representations of identity and ethnicity in literary and cultural texts. The course also satisfied student-learning outcomes in two general-education areas (Humanities and Diversity) and one program (English, where our course was housed).
 
@@ -108,7 +104,7 @@ In our talk, we will each discuss our section of the course, with particular att
 
 This study tested whether task complexity, defined as task features that can be manipulated either to increase or decrease the cognitive demands placed on learners while performing a task, affects L2 learners’ writing performance. Specifically, the study examined whether increased task complexity affects L2 learners’ ability to (a) use genre conventions for writing academic argumentative essays in English, and (b) use linguistic resources that are generally employed in argumentative essays. The participants were 26 international students enrolled in an undergraduate writing class at an American university. During the instructional sessions, participants completed one task in dyads. Half of the students completed a simple task and the other half completed a complex task. Although both tasks required students to write an argumentative essay collaboratively in pairs, students in the simple group were given the topic, arguments that they could copy and use in their essay, the rhetorical moves of argumentation, and linguistic forms to be used to express their ideas. In contrast, students in the complex group were only provided with the essay topic. To measure learners’ development of their argumentative writing skills, three individual essay tests were used as pre-, post-, and delayed post-tests. To analyze students’ essays, this study implemented a corpus linguistic approach. More specifically, it used the text analysis software DocuScope (Ishizaki & Kaufer, 2011) to look for trends that serve as indicators of academic writing development. Those indicators include increased use of certain linguistic and rhetorical features prominent in academic writing (Institutional Register, Academic Register, Reasoning, Elaboration, and Reporting) or decreased use of certain features that are more prominent in informal oral or non-academic language (e.g., Description and Narrative).
 
-#### Taking Flight: expanding a crowdsourcing program in support of new research
+#### Taking Flight: Expanding a Crowdsourcing Program in Support of New Research
 {: #submission-25}
 
 *Mark Anderson*
@@ -117,15 +113,12 @@ DIY History is the transcription crowdsourcing program at the University of Iowa
 
 Most recently, its focus has grown beyond just the transcription of diaries, letters, and other manuscript materials with a collaborative project between the Libraries and the University of Iowa Museum of Natural History to digitize and transcribe a collection of field observation notecards gathered by 19th century amateur ornithologists.  The Egg Cards describe specimens at the museum, but having never been transcribed, searching the collection remains a manual task.  The results of the project will not only provide searchable data for the collection that can lead to new research and scholarship opportunities, but also draw upon the participation of new citizen archivists.  My presentation will describe the changes to the DIY History program as a result of this new project, and ways that it continues to support digital humanities at the University of Iowa.
 
-#### Academic Technology Specialist/Adjunct Professor of History
+#### Adaptive Forms: Conditional Logic and Advanced Survey Engines
 {: #submission-26}
 
 *Mark Gallimore*
 
-Adaptive Forms
-
 Humanists and social scientists use online data-collecting forms for a variety of scholarly tasks, and a major advantage of digital forms is conditional logic.  Most major survey or form engines have a big set of logic options that allow a form to change as the respondent enters data.  Forms might add or eliminate subsequent questions based on a respondent’s earlier input.  A form might install information a respondent entered a moment before into a subsequent question, so the subject of that question is clear.  For those filling out a survey, or providing respondent-specific information, the form is only as long as it needs to be.  This keeps each respondent focused on what matters to them, and gives them a sense that providing data to the project is worth their time and effort.     
-
 In this twenty minute session, I demonstrate conditional logic and piping using an advanced survey engine typical of those available to scholars at most colleges and universities.  I also demonstrate the simpler but still useful version of conditional logic in Google Forms, a tool available to everyone for free.  Participants with devices are encouraged to build a simple form along with me.
 
 #### Student Videos: Teaching the Mechanics
@@ -133,14 +126,13 @@ In this twenty minute session, I demonstrate conditional logic and piping using 
 
 *Mark Gallimore*
 
-Please see my video proposal at:  [https://youtu.be/YK8Zg44EVW8](https://youtu.be/YK8Zg44EVW8)
+Please see the video abstract at:  [https://youtu.be/YK8Zg44EVW8](https://youtu.be/YK8Zg44EVW8)
 
-Thanks!
 
 #### What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_
 {: #submission-28}
 
-*Mary Erica Zimmer, Molly O'Donnell, Elisa Beshero-Bondar*
+*Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar*
 
 In a keynote to the University of Michigan’s 2016 symposium on “Text Mining Across the Disciplines,” Laura Mandell argued for oscillating between qualitative and quantitative methods, as a means of placing corpus-based insights in context. Such a call likewise suggests large-scale archival approaches as able to inform more discrete editorial questions. As Elena Pierazzo (2015) observes, contemporary editorial projects ask scholars to serve as part of diverse teams in new and emerging environments. This paper will explore how existing approaches to scholarly annotation may yield models for computationally informed _praxis_.
 
@@ -175,14 +167,6 @@ Stylochronometry is defined as the use of statistical and often computational me
 
 In my individual conference paper for Keystone DH, I will focus on the application of stylochronometry to a corpus of “weird fiction,” a collective term often used to describe gothic, horror, and otherwise supernaturally-themed genre fiction. This Spring, using resources of the Pittsburgh Supercomputing Center, I am collaborating with two partners, Alexander Gladwin and Daniel M. Look, on a project that examines H.P. Lovecraft’s use of archaic terms and neologisms. The case of HP Lovecraft is an intriguing one because he made various attempts, many quite aggressive, to alter his literary voice to sound archaic. However, in my Keystone DH presentation, my question will be to what degree that impulse can be seen in the weird genres more generally. I will consider texts before and after Lovecraft’s era, as it will be interesting to see if he was participating in or possibly spurring on a larger trend, but my goal is not merely to advance to the field of individual author studies around Lovecraft and his work. Rather, I will address what stylochronometry can tell us about how the diction and style helped authors of weird fiction position their work as belonging to older periods.
 
-Works Cited
-
-Forsyth, RS. “Stylochronometry with substrings, or: a poet young and old.” Literary and Linguist Computing (1999) 14(4): 467-478.
-
-Stamou, Constantina. “Stylochronometry: Stylistic Development, Sequence of Composition, and Relative Dating.” Literary and Linguist Computing (2008) 23(2): 181-199.
-
-Underwood, Ted and Jordan Sellers. “The Emergence of Literary Diction.” Journal of Digital Humanities (2012) 1.2. < http://journalofdigitalhumanities.org/1-2/the-emergence-of-literary-diction-by-ted-underwood-and-jordan-sellers/>
-
 #### "What Does It Matter Where One Lives?": Spatial Mapping and Edith Wharton's _The Age of Innocence_
 {: #submission-32}
 
@@ -200,7 +184,7 @@ The Navajo Verb Generator Project (NVG) is a case study in leveraging digital en
 #### Emily Dickinson: Fascicle 16
 {: #submission-34}
 
-*Nicole Lottig, Brooke Stewart, Brooke Lawrence*
+*Nicole Lottig, Brooke Stewart, and Brooke Lawrence*
 
 [Emily Dickinson: Fascicle 16](http://dickinson16.newtfire.org/) is a repurposed version of two previous websites that explore the poems in Dickinson's Fascicle 16. The original websites look at variants within the poems that Dickinson herself had made. Our group compared the changes that were made to the poems in a selected list of published versions from the nineteenth and twentieth centuries. We worked together in our Fall 2015 [DH class](http://newtfire.org/dh/CDASyll.html) at [Pitt-Greensburg](http://www.greensburg.pitt.edu/) to completely refurbish the existing work and display our own findings.
 
@@ -242,10 +226,10 @@ In their 2009 survey on "graceful degradation" of digital humanities projects, B
 
 Preliminary research results will be presented at KeystoneDH16, and will be used to consider whether the DH community should modify its collaborative preservation efforts to ensure the survival of DH scholarship on black writers and black history.
 
-#### Exploring the adoption of STEM praxis in the Digital Humanities
+#### Exploring the Adoption of STEM Praxis in the Digital Humanities
 {: #submission-41}
 
-*Sarah C. Stanley; Matthew E. Hunter*
+*Sarah C. Stanley and Matthew E. Hunter*
 
 As digital humanists assert themselves into the academic milieu, digital projects increasingly leverage scientific praxis for humanistic inquiry. The adoption of these practices engenders seemingly-ubiquitous digital scholarship buzzwords such as “project management,” “collaboration,” “interdisciplinarity,” and (in the scariest scare-quotes of all) “funding.” These concepts appear to be at odds with the classic image of the lone humanities scholar. While STEM researchers are accustomed to considering the influence of funding agendas on scholarship, collaborative attribution models, and product-driven scholarship, these are emergent questions for humanists.
 
@@ -253,10 +237,10 @@ We interrogate W. H. K. Chun’s provocation that the digital humanities confron
 
 This dialogue is informed by the authors’ academic perspectives as humanities-trained librarians and scholars, and as professionals within the University system. Matthew facilitates predominantly STEM research as a University grants officer, and therefore understands the financial and administrative intricacies of the funding landscape. Sarah works as digital scholarship support staff in the university library, and has firsthand experience in digital humanities research. These backgrounds inform our discussion on the challenges and benefits of collaborative and interdisciplinary methods of humanistic scholarship.
 
-#### Translation analysis with TEI: Robert Southey’s Amadis of Gaul
+#### Translation Analysis with TEI: Robert Southey’s _Amadis of Gaul_
 {: #submission-42}
 
-*Stacey Triplette, Elisa Beshero-Bondar*
+*Stacey Triplette and Elisa Beshero-Bondar*
 
 The late fifteenth-century Iberian romance _Amadís de Gaula_ offers an attractive opportunity for translators because it is unmoored in time, space, and authorship. Medieval versions of the story have been lost, and sixteenth-century editions of the text often stripped out the name and personality of Garci-Rodríguez de Montalvo, whose edited _Amadís_ dates to 1508 and forms the basis for modern critical editions. Though twentieth-century discoveries reveal a Castilian origin for the work, in the sixteenth through nineteenth centuries it was often thought to descend from a French or Portuguese original. Southey, translating the work into English in 1803, sustained the Portuguese thesis, and his Amadis compresses and alters the original text according to the aesthetic criteria of the Romantic era and the nascent British Empire while purporting to restore the simplicity of an idealized Portuguese ur-text.
 
@@ -265,7 +249,7 @@ Our digital project uses TEI to align Southey’s text with the Spanish “origi
 #### Building and Managing a Digital English Studio: Collaborative Aspects
 {: #submission-44}
 
-*Stuart Selber, Daniel Tripp, Leslie Mateer*
+*Stuart Selber, Daniel Tripp, and Leslie Mateer*
 
 Digital Humanities projects vary widely in their requirements for institutional support. Some people are able to work quite independently with as little as a laptop, public WIFI, and an open-source application or two. Others, and we would argue many others, are working on projects that require significant resources, social and technical. Academic institutions tend to be good at providing support for a general university population, but that type of support is often inadequate in specific situations. How might departments and programs support the individual digital projects of humanities scholars and teachers? And what types of collaborative structures are helpful to the endeavor of creating supportive environments for specific purposes?
 
@@ -284,7 +268,7 @@ Based on preliminary research, I argue that the Soviet government detained the P
 
 A significant part of my project is mapping. Using Russian archival sources and the program ArcGIS, I aim to answer key questions related to the German POW Gulag experience including: First, were the main POW camps located in rural or in urban areas, and how isolated were they from the Soviet prison population and the free population? Second, what contribution did the POWs make to reconstruction? Were they primarily used for resource extraction? To what extent did they have a hand in reconstructing the massive destruction of cities? Third, how did they fit into the Soviet Gulag forced labor system? Were they primarily distributed to POW only camps or were they integrated into existing ones for political prisoners and convicts? Finally, how did their geographical location shape the experiences of POWs?
 
-#### Tracing the Influence of "The Right to Privacy
+#### Tracing the Influence of "The Right to Privacy"
 {: #submission-47}
 
 *Susan Tanner*
@@ -296,7 +280,7 @@ My presentation will focus on the first part of a two-part project wherein I stu
 #### Augmented Reality Collaboration: The Augmented Palimpsest Project
 {: #submission-48}
 
-*Tamara O'Callaghan, Andrea R. Harbin*
+*Tamara O'Callaghan and Andrea R. Harbin*
 
 Our digital humanities project, The Augmented Palimpsest explores how the medium of Augmented Reality (AR) can be applied to teach medieval literature effectively. Using Chaucer’s General Prologue, the tool delivers digital enhancements that emerge from the printed page via a smart device. We are creating simple print pages with highly detailed manuscript borders set around the text of Chaucer poem. As such, each page has the appearance of a medieval manuscript folio with a border that is coded with a variety of digital enhancements, including but not limited to audio, video, and graphical materials; and 3D models of figures, architecture, and objects. The student opens our AR application or “app” on a smart device, such as an iPhone, iPad, or Android tablet/phone, and then holds that device over individual fiducials embedded in the border to access the various enhancements coded to each fiducial.  
 
@@ -305,7 +289,7 @@ Thanks to an NEH Digital Humanities Start-Up Grant, we are now building the tool
 #### R for Humanists: A Git Repository and Tutorial Approach
 {: #submission-49}
 
-*Tassie Gniady, Grace Thomas*
+*Tassie Gniady and Grace Thomas*
 
 The Cyberinfrastructure for Digital Humanities Group at Indiana University—Bloomington has been working on building simple R scripts and RNotebooks describing how each line of code functions that are freely available on github. Tutorials are also offered on campus four times a semester, with an additional two planned for Indian University—Purdue University Indianapolis. As R has exploded in popularity as a way to do to text analysis, we have wanted to make available a repository that is aimed specifically at digital humanists and that may reach those unable to attend summer institutes, or who want a tutorial-like experience while broadening the applicable fields that the pathbreaking book by Matthew Jockers, Text Analysis With R for Students of Literature, addresses. Our first workshop had attendees from ethnomusicology, folklore, history, library science, and Italian & Portugese, in addition to a surprise constituency: epidemiology! We also addressed the benefits and drawbacks of using a library like tm (text mining) for simple analysis versus writing functions on your own. Our more advanced workshop looks at sentiment analysis, which is beneficial to a broad range of disciplines and can be applied to social media, survey, and text. This presentation will share what we have learned from the inaugural semester of these workshops, the ten inaugural scripts, plans for building interactive Jupyter Notebooks this summer, and different methods of teaching programming to humanists.
 
@@ -323,11 +307,9 @@ The dominant view of time sees time as homogeneous and one-directional. But this
 
 Modern research has produced a stunning amount of data in virtually every field of study. For example, biologists in the age of gene technologies and bioinformatics have had to grapple with this volume of data for about two decades. In particular, new approaches to evaluating metadata have been developed to address the growing need for the analysis of such data.  This paper explores the possibility of applying techniques developed for analyzing metadata in disciplines like biology to comparable metadata in art history. In particular, the research outlines the application of such techniques to the wealth of data stored in the Index of Christian Art (https://ica.princeton.edu/). The preliminary research aggregated data for over 1500 Tuscan paintings from the Fourteenth Century to identify subjects handled differently before and after the Black Death. The results demonstrate shifts in the iconography of Mary consistent with scholarly interpretations. Despite some interpretive challenges, the early results of this work suggest that such techniques could be repurposed to provide advanced search features to large metadata collections in art history. The comparison of interdisciplinary approaches to metadata offers digital humanists the opportunity to reflect on data-sharing practices in the discipline and explore the rich set of options for organizing the metadata supporting research.
 
-
-
 ## Short Presentations
 
-#### Interacting with In Mrs. Goldberg's Kitchen
+#### Interacting with _In Mrs. Goldberg's Kitchen_
 {: #submission-0}
 
 *Adam Hochstetter*
@@ -338,7 +320,7 @@ A major portion of the website is based on an award winning museum exhibit in Lo
 
 We needed a free open-source, viewer for these digital objects that was compatible with modern browsers (not flash) and could be integrated into Omeka.  To do this we turned to X3DOM.  X3DOM is “an open-source framework and runtime for 3d graphics on the web.” It can be integrated into the HTML DOM and supports most HTML events.  Using JavaScript we were able to create complex interactions with the model of the physical exhibit. Integration with Omeka allows for the easy display of relevant metadata though it can be used in other contexts with minimal alteration.
 
-#### Competitors or Corroborators?; A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel
+#### Competitors or Corroborators?: A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel
 {: #submission-7}
 
 *Chris D. Jimenez*
@@ -395,7 +377,7 @@ Join members of the Text Encoding Initiative (TEI) and editors of [the Digital M
 
 Participation in this workshop will require participants to install a (free) version of the <oXygen/> XML Editor ahead of time, available from [here](https://www.oxygenxml.com/xml_editor.html). We may be able to provide extensions on the free license. Participants will be invited to attempt reading of a manuscript, but in the interests of time they will also be provided with partial transcriptions of letters, and much of the session will be devoted to an orientation to collecting and representing metadata, and the kinds of information that can be systematically organized, traced, and studied with the data-binding of markup. [Proposed length: two hours]
 
-#### Workshop: Mapping a Digital History of Big Science
+<!--#### Workshop: Mapping a Digital History of Big Science
 {: #submission-13}
 
 *Elyse Graham*
@@ -416,12 +398,12 @@ The workshop will consist of:
 
 -	a final discussion in which the small groups reunite to present and discuss insights from the breakout session.
 
-This format enables the participants to share a set of key terms while also collaborating across their various disciplines. It will also give them hands-on experience with the non-technical stages of prototyping. The governing methodology of this workshop is “critical making,” which holds that distinctive kinds of knowledge can be gained from hands-on design practice.
+This format enables the participants to share a set of key terms while also collaborating across their various disciplines. It will also give them hands-on experience with the non-technical stages of prototyping. The governing methodology of this workshop is “critical making,” which holds that distinctive kinds of knowledge can be gained from hands-on design practice.-->
 
 #### Curating the Digital: Collaboration and Transformation
 {: #submission-43}
 
-*Stefanie Dennis Hunker, Jolie Sheffer, Carol Singer*
+*Stefanie Dennis Hunker, Jolie Sheffer, and Carol Singer*
 
 With the availability of digital curation tools and digital environments, we have the opportunity to think about a new era in the study of literary, textual, and material culture. We are in a new world, where visual images circulate, are contextualized, transformed, and shared across the globe, in an instant. Yet now more than ever, these images require context, historicization, analysis, and interpretation. The use of these digital tools can actually transform how we study culture, and how we communicate our findings with others. Thus, digital curation has profound implications for pedagogical practice, for processes of cultural analysis, and for the audience(s) for library archives.
 
@@ -434,7 +416,7 @@ This workshop session is focused on pedagogical considerations and strategies fo
 #### Taking Livingstone Online across Disciplines, Institutions, and Continents
 {: #submission-1}
 
-*Adrian Wisnicki; Ashanka Kumari*
+*Adrian Wisnicki and Ashanka Kumari*
 
 This project showcase will explore the role of international, interdisciplinary collaboration in two linked, NEH-funded projects: the Livingstone Spectral Imaging Project (2010-present) and the Livingstone Online Enrichment and Access Project (2013-present). Collectively, these projects bring together over 20 senior and junior specialists, inside and outside the academy, spread across three continents (North America, Europe, Africa) as well as nearly 40 supporting institutions from around the world. Expertise ranges across areas such as literature, history, writing studies, medicine, physics, computer science, library science, data management, and web design.
 
@@ -448,6 +430,7 @@ This showcase will walk through the role of collaboration in enabling our work w
 *Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey*
 
 This project showcase is a presentation of an ongoing project mapping place names that occur in 21st century cookbooks from the American South.
+
 It has long been a truism in American and Southern studies that the boundaries of “The South” of popular imagination have never fit comfortably on the geographic borders of the states of the Confederacy. Texts like Jennifer Rae Greeson’s Our South: Geographic Fantasy and the Rise of National Literature suggest that “This South that we hold collectively in our minds is not – could not possibly be – a fixed or real place” (Greeson 1). And yet, contemporary cookbooks of Southern cuisine appear convinced that such a place does exist, that it is distinct from other places as a culture, and that its borders can be known. Cookbooks trade in the currency of “authenticity” which depends on an image of a continuous geographic South and authentic Southern identity.
 
 To explore this phenomenon of an imagined Southern geography, I employ methods of digital humanities research and GIS technology to draw maps of the South as imagined by each cookbook. The maps represent the breadth of global influences in contemporary Southern cuisine by tracking explicit references to the origins of ingredients or Southern food traditions. The maps also represent the centers of Southern cuisine through “density” or “heat” mapping, marking repeated references.
@@ -459,11 +442,7 @@ Though the project is ongoing, this presentation focuses on two maps that demons
 
 *Chuck Steel*
 
-Project Showcase Submission:
-The Luther Works Visualization Project is meant to provide a resource for both Luther scholars and lay persons with an interest in Luther’s works to discover and explore them through the use of word clouds. While it should not be considered a tool for providing deep scholarly research on Luther’s works it can provide insights that may point the scholar in a direction they had not considered in their previous work. The visual nature of word clouds can also provide the lay person with a quick synopsis of a group of Luther’s works, or even of a single text, that will help them grasp the key themes of the texts in question. This can make the works more approachable for those that are just beginning their journey with Luther. I developed this project to fulfill the requirements of my Master of Arts in Religion degree at the Lutheran Theological Seminary at Gettysburg. The project database includes over six hundred works by Luther including letters, sermons, hymns and other writings the majority of which are in the public domain. The website provides an interface that allows the user to explore Luther’s works in three different ways; browsing works by type, exploring how Luther’s use of words changed over time, and performing a search using various criteria such as type of work, date, keywords used. Browsing by type and the search pages also allow the user to compare groups of works to each other. The website is open to the public and can be viewed here:
-http://projects.chucksteel.com/luther/
-
-My project showcase would give an overview of the web technologies used in creating the project and a demonstration of the website’s features.
+The Luther Works Visualization Project is meant to provide a resource for both Luther scholars and lay persons with an interest in Luther’s works to discover and explore them through the use of word clouds. While it should not be considered a tool for providing deep scholarly research on Luther’s works it can provide insights that may point the scholar in a direction they had not considered in their previous work. The visual nature of word clouds can also provide the lay person with a quick synopsis of a group of Luther’s works, or even of a single text, that will help them grasp the key themes of the texts in question. This can make the works more approachable for those that are just beginning their journey with Luther. I developed this project to fulfill the requirements of my Master of Arts in Religion degree at the Lutheran Theological Seminary at Gettysburg. The project database includes over six hundred works by Luther including letters, sermons, hymns and other writings the majority of which are in the public domain. The website provides an interface that allows the user to explore Luther’s works in three different ways; browsing works by type, exploring how Luther’s use of words changed over time, and performing a search using various criteria such as type of work, date, keywords used. Browsing by type and the search pages also allow the user to compare groups of works to each other. The website is open to the public and can be viewed here: http://projects.chucksteel.com/luther/. My project showcase would give an overview of the web technologies used in creating the project and a demonstration of the website’s features.
 
 #### Broken Books
 {: #submission-11}
