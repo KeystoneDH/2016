@@ -408,36 +408,28 @@ This workshop session is focused on pedagogical considerations and strategies fo
 
 ## Project Showcase
 
-#### Taking Livingstone Online across Disciplines, Institutions, and Continents
-{: #submission-1}
+#### Ticha: The Story of an International, Community-Engaged Digital Humanities Project
+{: #submission-22}
 
-*Adrian Wisnicki and Ashanka Kumari*
+*Laurie Allen, Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk*
 
-This project showcase will explore the role of international, interdisciplinary collaboration in two linked, NEH-funded projects: the Livingstone Spectral Imaging Project (2010-present) and the Livingstone Online Enrichment and Access Project (2013-present). Collectively, these projects bring together over 20 senior and junior specialists, inside and outside the academy, spread across three continents (North America, Europe, Africa) as well as nearly 40 supporting institutions from around the world. Expertise ranges across areas such as literature, history, writing studies, medicine, physics, computer science, library science, data management, and web design.
+The project demonstration will introduce [*Ticha: A digital text explorer for Colonial Zapotec*](http://ticha.haverford.edu), and will focus on the collaboration between linguists, ethnohistorians, librarians, undergraduates, and modern Zapotec language speakers. While still relatively young, the project has already resulted in the Ticha website which allows users to view and explore multiple layers of 16th to 18th century texts written in Zapotec, an endangered language, indigenous to Oaxaca, Mexico. The website brings together both pre-existing digital images of printed texts from US Collections, including the John Carter Brown library, and new high resolution images of manuscripts handwritten in Zapotec, such as wills and bills of sale, the originals of which are stored in diverse archives in Mexico, sometimes difficult to access. Each text is made available publicly on the Ticha site throughout the process of transcription, encoding in TEI, translation, normalization, and additional annotation, including linguistic analysis. Modern Zapotec speakers have been consulted throughout the project, and their input has helped shape both the current website and priorities for the future. During this presentation, we will talk about the collaborative process of creating this interdisciplinary project, including how the team has worked together across international, professional, and language boundaries to develop a site that will be useful for multiple scholarly and public audiences.
 
-Both projects focus on David Livingstone (1813-73), the celebrated Victorian traveler, missionary, and abolitionist. The spectral imaging project applies advanced imaging technology to study the textual and material history of some of Livingstone’s most damaged manuscripts. Livingstone Online centers on building a visual and textual archive of Livingstone manuscripts and artifacts, with an emphasis on restoring Livingstone – an otherwise iconic and oft dehistoricized figure – to the non-Western cultural contexts in which he worked and traveled. Each project places special emphasis on accountability and knowledge transfer via extensive documentation in the form of narrative text, images, and downloadable documents. Such documentation also makes transparent the inner workings of our collaborative relationships.
+#### Text Annotation Modules and 19th-Century Literature
+{: #submission-51}
 
-This showcase will walk through the role of collaboration in enabling our work while touching on facets such as project planning, program management, division of labor, communication among team members and across disciplines, and reporting to stakeholders. We will argue that the spatial distribution of our collaborators and the division of our team into overlapping sub-units (scholarship, site design, data development, outreach and dissemination, management) enables us to work at an exceptional scale and, advantageously, to integrate diverse perspectives into our research. However, we will also cite the challenges that such scale and distribution poses and explore the potential conflicts that arise when scholar-led, people-oriented projects such as ours must negotiate their way within broader institutional – particularly university – contexts.
+*Todd Bryant & Sarah Kersh*
 
-#### Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks
-{: #submission-6}
+During the summer of 2015 the Mellon Foundation Digital Humanities grant at Dickinson College funded a project to produce an online, annotated edition of a volume of poems written by the 19th-century poet Michael Field, https://michaelfield.dickinson.edu/.  The team, led by Sarah Kersh, Assistant Professor of English, and Todd Bryant, Language Technology Specialist, consisted of two undergraduate English majors, and one student from computer science.  
 
-*Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey*
+Michael Field’s _Sight and Song_ (1892) is a volume of ekphrastic poems, (i.e. poems written about paintings), and our annotated edition allows viewers to see the poems alongside their associated images.  Annotations within the poems provide background information making Sight and Song more accessible for students and teachers alike and the project brings to the forefront the current relevance of a text previously marginalized and currently out of print.   
 
-This project showcase is a presentation of an ongoing project mapping place names that occur in 21st century cookbooks from the American South.
+The site is built on Drupal and utilizes other open source tools and modules of use to the wider digital humanities communities.  The annotations are created using a custom Drupal module developed by Sai Grandhi which integrates with an open JavaScript library AnnotatorJS, the same library used by Hypothesis https://hypothes.is/ and Annotation Studio http://www.annotationstudio.org/.  
 
-It has long been a truism in American and Southern studies that the boundaries of “The South” of popular imagination have never fit comfortably on the geographic borders of the states of the Confederacy. Texts like Jennifer Rae Greeson’s Our South: Geographic Fantasy and the Rise of National Literature suggest that “This South that we hold collectively in our minds is not – could not possibly be – a fixed or real place” (Greeson 1). And yet, contemporary cookbooks of Southern cuisine appear convinced that such a place does exist, that it is distinct from other places as a culture, and that its borders can be known. Cookbooks trade in the currency of “authenticity” which depends on an image of a continuous geographic South and authentic Southern identity.
+The visualizations created by English majors Georgia Christman and Katie Jarman using Gephi show models of repeated patterns and key words present in the poems and the paintings.  Going forward, we plan to use data from the Hathi Trust to look at word frequency across time to better situate Michael Field’s work within the sphere of nineteenth-century texts.
 
-To explore this phenomenon of an imagined Southern geography, I employ methods of digital humanities research and GIS technology to draw maps of the South as imagined by each cookbook. The maps represent the breadth of global influences in contemporary Southern cuisine by tracking explicit references to the origins of ingredients or Southern food traditions. The maps also represent the centers of Southern cuisine through “density” or “heat” mapping, marking repeated references.
+Todd Bryant will be happy to show anyone interested how to implement the AnnotatorJS JavaScript on Drupal or elsewhere, use Gephi, and how python scripts can be used to combine and modify the data sets from the Hathi Trust.
 
-Though the project is ongoing, this presentation focuses on two maps that demonstrate dramatically different Souths: John Currence’s Pickles, Pigs, and Whiskey (2013) and Sean Brock’s Heritage (2014). The maps show that Currence’s experiences living and cooking in New Orleans and Mississippi yield a very different map from Brock, whose experience is centered in rural Virginia, South Carolina, and Tennessee. Though both cookbooks appear to represent the authentic cuisine of an Imagined South, the maps reveal that they represent relatively small – and scarcely overlapping – portions of the geographic South.
-
-#### The Luther Works Visualization Project
-{: #submission-8}
-
-*Chuck Steel*
-
-The Luther Works Visualization Project is meant to provide a resource for both Luther scholars and lay persons with an interest in Luther’s works to discover and explore them through the use of word clouds. While it should not be considered a tool for providing deep scholarly research on Luther’s works it can provide insights that may point the scholar in a direction they had not considered in their previous work. The visual nature of word clouds can also provide the lay person with a quick synopsis of a group of Luther’s works, or even of a single text, that will help them grasp the key themes of the texts in question. This can make the works more approachable for those that are just beginning their journey with Luther. I developed this project to fulfill the requirements of my Master of Arts in Religion degree at the Lutheran Theological Seminary at Gettysburg. The project database includes over six hundred works by Luther including letters, sermons, hymns and other writings the majority of which are in the public domain. The website provides an interface that allows the user to explore Luther’s works in three different ways; browsing works by type, exploring how Luther’s use of words changed over time, and performing a search using various criteria such as type of work, date, keywords used. Browsing by type and the search pages also allow the user to compare groups of works to each other. The website is open to the public and can be viewed here: http://projects.chucksteel.com/luther/. My project showcase would give an overview of the web technologies used in creating the project and a demonstration of the website’s features.
 
 #### Broken Books
 {: #submission-11}
@@ -468,22 +460,6 @@ In addition to the visualizations, the website includes what we call “micro es
 
 This project showcase will explore the EPFOI website and describe the process of developing the project. Additionally, it will consider how EPFOI may serve as a methodological model for “mid-range” reading of other small corpora from any historical period.
 
-#### Six Degrees of Francis Bacon: A Project Showcase
-{: #submission-19}
-
-*Jessica Otis*
-
-Six Degrees of Francis Bacon is an interdisciplinary digital humanities project, reconstructing the social network of early modern Britain (1500-1700) through a combination of machine learning and scholarly crowdsourcing. This project showcase will highlight the collaboration of professors and students in Georgetown University's Department of English and Carnegie Mellon University's Departments of English and Statistics; Information Systems Program; Hunt Library; and Human-Computing Interaction Institute, to statistically infer the Six Degrees network then display that network on a website suitable for crowdsourced input.
-
-The Six Degrees team employed a combination of freely-available Named-Entity Recognition tools and custom statistical inference on the Oxford Dictionary of National Biography to create a preliminary social network of over 13,000 early modern people and 170,000 relationships between them. This inferred network was not intended to be a definitive statement of who knew whom in early modern Britain, but rather the foundation for expert intervention and crowdsourcing.  To facilitate this, the Six Degrees team designed a series of prototype websites--iteratively improving our design--before finally going live with our beta website in September 2015.  To date, the site has received approximately 30,000 hits from over 3,000 users, who have collectively made over 5,100 contributions to our preliminary network.
-
-#### Ticha: The Story of an International, Community-Engaged Digital Humanities Project
-{: #submission-22}
-
-*Laurie Allen, Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk*
-
-The project demonstration will introduce [*Ticha: A digital text explorer for Colonial Zapotec*](http://ticha.haverford.edu), and will focus on the collaboration between linguists, ethnohistorians, librarians, undergraduates, and modern Zapotec language speakers. While still relatively young, the project has already resulted in the Ticha website which allows users to view and explore multiple layers of 16th to 18th century texts written in Zapotec, an endangered language, indigenous to Oaxaca, Mexico. The website brings together both pre-existing digital images of printed texts from US Collections, including the John Carter Brown library, and new high resolution images of manuscripts handwritten in Zapotec, such as wills and bills of sale, the originals of which are stored in diverse archives in Mexico, sometimes difficult to access. Each text is made available publicly on the Ticha site throughout the process of transcription, encoding in TEI, translation, normalization, and additional annotation, including linguistic analysis. Modern Zapotec speakers have been consulted throughout the project, and their input has helped shape both the current website and priorities for the future. During this presentation, we will talk about the collaborative process of creating this interdisciplinary project, including how the team has worked together across international, professional, and language boundaries to develop a site that will be useful for multiple scholarly and public audiences.
-
 #### PA Digital and the DPLA: Collaborating on Collections as a Community
 {: #submission-35}
 
@@ -495,6 +471,15 @@ The project showcase will focus on the initiative that kicked off PDCP planning 
 
 Besides reporting out on progress, the purpose of the showcase is also to present a model of collaboration for a national effort - the DPLA - that is enlarging upon usage, manipulation, and application of collection content for, among other types of users, digital humanities practitioners. In doing so, the session will also address challenges, lessons learned, and anticipated future PDCP endeavors relative to the Project’s continuing involvement as a service hub for the DPLA.
 
+#### Six Degrees of Francis Bacon: A Project Showcase
+{: #submission-19}
+
+*Jessica Otis*
+
+Six Degrees of Francis Bacon is an interdisciplinary digital humanities project, reconstructing the social network of early modern Britain (1500-1700) through a combination of machine learning and scholarly crowdsourcing. This project showcase will highlight the collaboration of professors and students in Georgetown University's Department of English and Carnegie Mellon University's Departments of English and Statistics; Information Systems Program; Hunt Library; and Human-Computing Interaction Institute, to statistically infer the Six Degrees network then display that network on a website suitable for crowdsourced input.
+
+The Six Degrees team employed a combination of freely-available Named-Entity Recognition tools and custom statistical inference on the Oxford Dictionary of National Biography to create a preliminary social network of over 13,000 early modern people and 170,000 relationships between them. This inferred network was not intended to be a definitive statement of who knew whom in early modern Britain, but rather the foundation for expert intervention and crowdsourcing.  To facilitate this, the Six Degrees team designed a series of prototype websites--iteratively improving our design--before finally going live with our beta website in September 2015.  To date, the site has received approximately 30,000 hits from over 3,000 users, who have collectively made over 5,100 contributions to our preliminary network.
+
 #### The Restoration of Nell Nelson
 {: #submission-38}
 
@@ -504,17 +489,33 @@ Helen Cusach's muckraking that exposed the unsanitary working conditions and cru
 
 [The Restoration of Nell Nelson project](http://nelson.newtfire.org/) aims to change this through the digitization of Cusach's series. We are making the entire text of the articles available as searchable TEI constrained XML. Using XSLT, SVG and JavaScript we highlight Cusach's distinct use of language and her representation of gender and archetypal speakers. By comparing the original series with the republications we plan to indicate how changes in Cusach's language altered the series original intent for complete exposure of corrupt Chicago industrialization.
 
-#### Text Annotation Modules and 19th-Century Literature
-{: #submission-51}
+#### The Luther Works Visualization Project
+{: #submission-8}
 
-*Todd Bryant & Sarah Kersh*
+*Chuck Steel*
 
-During the summer of 2015 the Mellon Foundation Digital Humanities grant at Dickinson College funded a project to produce an online, annotated edition of a volume of poems written by the 19th-century poet Michael Field, https://michaelfield.dickinson.edu/.  The team, led by Sarah Kersh, Assistant Professor of English, and Todd Bryant, Language Technology Specialist, consisted of two undergraduate English majors, and one student from computer science.  
+The Luther Works Visualization Project is meant to provide a resource for both Luther scholars and lay persons with an interest in Luther’s works to discover and explore them through the use of word clouds. While it should not be considered a tool for providing deep scholarly research on Luther’s works it can provide insights that may point the scholar in a direction they had not considered in their previous work. The visual nature of word clouds can also provide the lay person with a quick synopsis of a group of Luther’s works, or even of a single text, that will help them grasp the key themes of the texts in question. This can make the works more approachable for those that are just beginning their journey with Luther. I developed this project to fulfill the requirements of my Master of Arts in Religion degree at the Lutheran Theological Seminary at Gettysburg. The project database includes over six hundred works by Luther including letters, sermons, hymns and other writings the majority of which are in the public domain. The website provides an interface that allows the user to explore Luther’s works in three different ways; browsing works by type, exploring how Luther’s use of words changed over time, and performing a search using various criteria such as type of work, date, keywords used. Browsing by type and the search pages also allow the user to compare groups of works to each other. The website is open to the public and can be viewed here: http://projects.chucksteel.com/luther/. My project showcase would give an overview of the web technologies used in creating the project and a demonstration of the website’s features.
 
-Michael Field’s _Sight and Song_ (1892) is a volume of ekphrastic poems, (i.e. poems written about paintings), and our annotated edition allows viewers to see the poems alongside their associated images.  Annotations within the poems provide background information making Sight and Song more accessible for students and teachers alike and the project brings to the forefront the current relevance of a text previously marginalized and currently out of print.   
+#### Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks
+{: #submission-6}
 
-The site is built on Drupal and utilizes other open source tools and modules of use to the wider digital humanities communities.  The annotations are created using a custom Drupal module developed by Sai Grandhi which integrates with an open JavaScript library AnnotatorJS, the same library used by Hypothesis https://hypothes.is/ and Annotation Studio http://www.annotationstudio.org/.  
+*Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey*
 
-The visualizations created by English majors Georgia Christman and Katie Jarman using Gephi show models of repeated patterns and key words present in the poems and the paintings.  Going forward, we plan to use data from the Hathi Trust to look at word frequency across time to better situate Michael Field’s work within the sphere of nineteenth-century texts.
+This project showcase is a presentation of an ongoing project mapping place names that occur in 21st century cookbooks from the American South.
 
-Todd Bryant will be happy to show anyone interested how to implement the AnnotatorJS JavaScript on Drupal or elsewhere, use Gephi, and how python scripts can be used to combine and modify the data sets from the Hathi Trust.
+It has long been a truism in American and Southern studies that the boundaries of “The South” of popular imagination have never fit comfortably on the geographic borders of the states of the Confederacy. Texts like Jennifer Rae Greeson’s Our South: Geographic Fantasy and the Rise of National Literature suggest that “This South that we hold collectively in our minds is not – could not possibly be – a fixed or real place” (Greeson 1). And yet, contemporary cookbooks of Southern cuisine appear convinced that such a place does exist, that it is distinct from other places as a culture, and that its borders can be known. Cookbooks trade in the currency of “authenticity” which depends on an image of a continuous geographic South and authentic Southern identity.
+
+To explore this phenomenon of an imagined Southern geography, I employ methods of digital humanities research and GIS technology to draw maps of the South as imagined by each cookbook. The maps represent the breadth of global influences in contemporary Southern cuisine by tracking explicit references to the origins of ingredients or Southern food traditions. The maps also represent the centers of Southern cuisine through “density” or “heat” mapping, marking repeated references.
+
+Though the project is ongoing, this presentation focuses on two maps that demonstrate dramatically different Souths: John Currence’s Pickles, Pigs, and Whiskey (2013) and Sean Brock’s Heritage (2014). The maps show that Currence’s experiences living and cooking in New Orleans and Mississippi yield a very different map from Brock, whose experience is centered in rural Virginia, South Carolina, and Tennessee. Though both cookbooks appear to represent the authentic cuisine of an Imagined South, the maps reveal that they represent relatively small – and scarcely overlapping – portions of the geographic South.
+
+#### Taking Livingstone Online across Disciplines, Institutions, and Continents
+{: #submission-1}
+
+*Adrian Wisnicki and Ashanka Kumari*
+
+This project showcase will explore the role of international, interdisciplinary collaboration in two linked, NEH-funded projects: the Livingstone Spectral Imaging Project (2010-present) and the Livingstone Online Enrichment and Access Project (2013-present). Collectively, these projects bring together over 20 senior and junior specialists, inside and outside the academy, spread across three continents (North America, Europe, Africa) as well as nearly 40 supporting institutions from around the world. Expertise ranges across areas such as literature, history, writing studies, medicine, physics, computer science, library science, data management, and web design.
+
+Both projects focus on David Livingstone (1813-73), the celebrated Victorian traveler, missionary, and abolitionist. The spectral imaging project applies advanced imaging technology to study the textual and material history of some of Livingstone’s most damaged manuscripts. Livingstone Online centers on building a visual and textual archive of Livingstone manuscripts and artifacts, with an emphasis on restoring Livingstone – an otherwise iconic and oft dehistoricized figure – to the non-Western cultural contexts in which he worked and traveled. Each project places special emphasis on accountability and knowledge transfer via extensive documentation in the form of narrative text, images, and downloadable documents. Such documentation also makes transparent the inner workings of our collaborative relationships.
+
+This showcase will walk through the role of collaboration in enabling our work while touching on facets such as project planning, program management, division of labor, communication among team members and across disciplines, and reporting to stakeholders. We will argue that the spatial distribution of our collaborators and the division of our team into overlapping sub-units (scholarship, site design, data development, outreach and dissemination, management) enables us to work at an exceptional scale and, advantageously, to integrate diverse perspectives into our research. However, we will also cite the challenges that such scale and distribution poses and explore the potential conflicts that arise when scholar-led, people-oriented projects such as ours must negotiate their way within broader institutional – particularly university – contexts.
