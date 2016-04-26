@@ -33,13 +33,12 @@ published: false
 
 **Wednesday 10 - 11:30am Panel Presentation (Session 2)**
 
-1. Videogame Adaptation - *Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi* ([abstract](/2016/abstracts/#submission-5))
+* Videogame Adaptation - *Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi* ([abstract](/2016/abstracts/#submission-5))
 
 
 **Wednesday 11:30am - 1:30pm**
 
-* Lunch
-
+* Lunch Break
 
 **Wednesday 1:30 - 3pm Long Papers (Session 3)**
 
@@ -56,8 +55,7 @@ published: false
 
 **Wednesday 1:30pm - 3pm Workshop (Session 5)**
 
-1. Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, Carol Singer* ([abstract](/2016/abstracts/#submission-43))
-
+* Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, Carol Singer* ([abstract](/2016/abstracts/#submission-43))
 
 **Wednesday 3pm - 5pm**
 
@@ -70,62 +68,73 @@ published: false
 
 ## Thursday June 23
 
-**Thursday 9am - 10:30am**
+**Thursday 8:30 - 9am**
+
+* Morning Coffee
+
+**Thursday 9 - 10:30am Long Papers (Session 6)**
 
 1. A Guerrilla Theory for the Digital Humanities - *Matt Applegate* ([abstract](/2016/abstracts/#submission-29))
 1. Augmented Reality as a Platform for Collaboration - *Robert Fletcher* ([abstract](/2016/abstracts/#submission-39))
-1. Toward a theory of time for the digital humanities - *Tim Gorichanaz* ([abstract](/2016/abstracts/#submission-50))
+1. Toward a Theory of Time for the Digital Humanities - *Tim Gorichanaz* ([abstract](/2016/abstracts/#submission-50))
 
 
-**Thursday 9am - 10:30am**
+**Thursday 9 - 10:30am Long Papers (Session 7)**
 
-1. Academic Technology Specialist/Adjunct Professor of History - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-26))
 1. Student Videos: Teaching the Mechanics - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-27))
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
 
 
-**Thursday 9am - 10:30am**
+**Thursday 9 - 10:30am Long Papers (Session 8)**
 
-1. Interacting with In Mrs. Goldberg's Kitchen - *Adam Hochstetter* ([abstract](/2016/abstracts/#submission-0))
-1. Competitors or Corroborators?; A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel - *Chris D. Jimenez* ([abstract](/2016/abstracts/#submission-7))
-1. Using IIIF for Small Projects - *David Newbury* ([abstract](/2016/abstracts/#submission-9))
+1. Interacting with _In Mrs. Goldberg's Kitchen_ - *Adam Hochstetter* ([abstract](/2016/abstracts/#submission-0))
+1. Competitors or Corroborators?: A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel - *Chris D. Jimenez* ([abstract](/2016/abstracts/#submission-7))
 1. Authority Cascades for Linked Open Data - *David Newbury* ([abstract](/2016/abstracts/#submission-10))
-1. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki* ([abstract](/2016/abstracts/#submission-45))
 
+**Thursday 10:30 - 11am**
 
-**Thursday 11am - 12:30am**
+* Coffee Break
 
-1. Taking Livingstone Online across Disciplines, Institutions, and Continents  - *Adrian Wisnicki; Ashanka Kumari* ([abstract](/2016/abstracts/#submission-1))
+**Thursday 11am - 12:30pm Project Showcases (Session 9)**
+
+1. Taking Livingstone Online across Disciplines, Institutions, and Continents  - *Adrian Wisnicki and Ashanka Kumari* ([abstract](/2016/abstracts/#submission-1))
 1. Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks - *Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey* ([abstract](/2016/abstracts/#submission-6))
 1. The Luther Works Visualization Project - *Chuck Steel* ([abstract](/2016/abstracts/#submission-8))
-1. Broken Books - *Debra T. Cashion, PhD, MLIS* ([abstract](/2016/abstracts/#submission-11))
+1. Broken Books - *Debra T. Cashion* ([abstract](/2016/abstracts/#submission-11))
 1. A Digital and Naturalistic Landscape of Thomas Hardy’s Wessex - *Erica Y. Hayes* ([abstract](/2016/abstracts/#submission-14))
 1. Exploring Place in the French of Italy - *Heather Hill* ([abstract](/2016/abstracts/#submission-16))
 1. Six Degrees of Francis Bacon: A Project Showcase - *Jessica Otis* ([abstract](/2016/abstracts/#submission-19))
-1. Ticha: The story of an international, community-engaged digital humanities project - *Laurie Allen on behalf of myself and Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk* ([abstract](/2016/abstracts/#submission-22))
+1. Ticha: The Story of an International, Community-Engaged Digital Humanities Project - *Laurie Allen, Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk* ([abstract](/2016/abstracts/#submission-22))
 1. PA Digital and the DPLA: Collaborating on Collections as a Community - *Patricia Hswe* ([abstract](/2016/abstracts/#submission-35))
 1. The Restoration of Nell Nelson - *Rob Spadafore and Rebecca Parker* ([abstract](/2016/abstracts/#submission-38))
-1. Text Annotation Modules and 19th-Century Literature - *Todd Bryant & Sarah Kersh* ([abstract](/2016/abstracts/#submission-51))
+1. Text Annotation Modules and 19th-Century Literature - *Todd Bryant and Sarah Kersh* ([abstract](/2016/abstracts/#submission-51))
 
+**Thursday 12:30 - 2pm**
 
-**Thursday 2pm - 3:30pm**
+* Lunch Break
+
+**Thursday 2 - 3:30pm Long Papers (Session 10)**
 
 1. Analyzing Ethos: Developing Digital Tools for Argument Analysis in the Humanities - *James Wynn and Rick Costa* ([abstract](/2016/abstracts/#submission-18))
 1. Mediating Native Languages in the Navajo Verb Generator Project - *Nabil Kashyap* ([abstract](/2016/abstracts/#submission-33))
-1. Exploring the adoption of STEM praxis in the Digital Humanities - *Sarah C. Stanley; Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41))
+1. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41))
 
 
-**Thursday 2pm - 3:30pm**
+**Thursday 2 - 3:30pm Long Papers (Session 11)**
 
 1. Topic Modeling Communities of Discourse in Doctoral Dissertations - *Benjamin Miller* ([abstract](/2016/abstracts/#submission-3))
-1. “Representing the un/der-represented: Using data visualization to explore diversity and inclusion for academic library collections” (Short Presentation) - *Bobby L. Smiley* ([abstract](/2016/abstracts/#submission-4))
+1. Representing the Un/er-represented: Using Data Visualization to Explore Diversity and Inclusion for Academic Library Collections - *Bobby L. Smiley* ([abstract](/2016/abstracts/#submission-4))
 1. When Literature Refuses to Act its Age: Large-Scale Stylochronometry among the Weird Genres - *Matthew Lavin* ([abstract](/2016/abstracts/#submission-31))
 
 
-**Thursday 2pm - 3:30pm**
+**Thursday 2 - 3:30pm Workshop (Session 12)**
 
-1. TEI for Historical Manuscripts and Letters: A Beginner's Workshop on Transcription, Metadata, Paleography and Code - *Elisa Beshero-Bondar, Lisa Wilson, and Amy Gates* ([abstract](/2016/abstracts/#submission-12))
+* TEI for Historical Manuscripts and Letters: A Beginner's Workshop on Transcription, Metadata, Paleography and Code - *Elisa Beshero-Bondar, Lisa Wilson, and Amy Gates* ([abstract](/2016/abstracts/#submission-12))
 
+
+**Thursday 3:30 - 4pm**
+
+* Coffee Break
 
 ## Friday June 24
 
@@ -134,7 +143,12 @@ published: false
 1. Taking Flight: expanding a crowdsourcing program in support of new research - *Mark Anderson* ([abstract](/2016/abstracts/#submission-25))
 1. On the Diversity of Digital Decay - *Robert Sieczkiewicz* ([abstract](/2016/abstracts/#submission-40))
 1. Interdisciplinary Approaches to Metadata - *Tom Lombardi* ([abstract](/2016/abstracts/#submission-52))
+ 
+**Friday 9am - 10:30am**
 
+1. Using IIIF for Small Projects - *David Newbury* ([abstract](/2016/abstracts/#submission-9))
+2. Adaptive Forms: Conditional Logic and Advanced Survey Engines - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-26))
+3. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki([abstract](/2016/abstracts/#submission-45))
 
 **Friday 9am - 10:30am**
 
