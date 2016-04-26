@@ -5,12 +5,12 @@ permalink: /abstracts/
 published: false
 ---
 
-* [Long Presentations](#long-presentations)
+* [Long and Short Presentations](#long-presentations)
 * [Workshops](#workshops)
 * [Project Showcases](#project-showcase)
 
 
-## Long Presentations
+## Long and Short Presentations
 
 #### Taking Flight: Expanding a Crowdsourcing Program in Support of New Research
 {: #submission-25}
