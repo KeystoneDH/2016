@@ -85,11 +85,12 @@ published: false
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
 
 
-**Thursday 9 - 10:30am: Long Papers (Session 8)**
+**Thursday 9 - 10:30am: Short Papers (Session 8)**
 
 1. Interacting with _In Mrs. Goldberg's Kitchen_ - *Adam Hochstetter* ([abstract](/2016/abstracts/#submission-0))
 1. Competitors or Corroborators?: A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel - *Chris D. Jimenez* ([abstract](/2016/abstracts/#submission-7))
 1. Authority Cascades for Linked Open Data - *David Newbury* ([abstract](/2016/abstracts/#submission-10))
+1. 3. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki* ([abstract](/2016/abstracts/#submission-45))
 
 **Thursday 10:30 - 11am**
 
@@ -155,7 +156,8 @@ published: false
 
 1. Using IIIF for Small Projects - *David Newbury* ([abstract](/2016/abstracts/#submission-9))
 2. Adaptive Forms: Conditional Logic and Advanced Survey Engines - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-26))
-3. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki* ([abstract](/2016/abstracts/#submission-45))
+3. Regional DH Consortia as an Intermediate Organization for DH Work - *John Theibault* ([abstract](/2016/abstracts/#submission-20))
+
 
 **Friday 9 - 10:30am: Long Papers (Session 15)**
 
@@ -176,7 +178,6 @@ published: false
 
 **Friday 11am - 12:30pm**
 
-<!--1. Regional DH Consortia as an Intermediate Organization for DH Work - *John Theibault* ([abstract](/2016/abstracts/#submission-20))-->
 1. Git Started! - *Rebecca Parker* ([abstract](/2016/abstracts/#submission-37))
 1. Building and Managing a Digital English Studio: Collaborative Aspects - *Stuart Selber, Daniel Tripp, and Leslie Mateer* ([abstract](/2016/abstracts/#submission-44))
 1. R for Humanists: A Git Repository and Tutorial Approach - *Tassie Gniady and Grace Thomas* ([abstract](/2016/abstracts/#submission-49))
