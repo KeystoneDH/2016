@@ -7,7 +7,7 @@ published: false
 
 * [Long Presentations](#long-presentations)
 * [Workshops](#workshops)
-* [Project Showcase](#project-showcase)
+* [Project Showcases](#project-showcase)
 
 
 ## Long Presentations
@@ -406,7 +406,7 @@ With the availability of digital curation tools and digital environments, we hav
 This workshop session is focused on pedagogical considerations and strategies for using archival materials as the basis for curated digital exhibits. The session is designed for archivists, library staff, and humanities faculty interested in having students work with digitized primary source materials.  Based on several years of collaboration between archivists and instructors at Bowling Green State University, this session’s facilitators will share best practices for effective collaborations.  We begin by discussing the goals of such projects, and identify a variety of tools that can be used to facilitate digital curation projects, including PowerPoint, Tumblr, Omeka, and WordPress. We will then discuss key considerations in developing institution-specific (and course-specific) processes for curating archival materials, such as audience, copyright and reproduction restrictions, workflow, metadata, time management, and technology. The majority of the workshop will be interactive, with participants curating freely available digital items for metadata, and creating exhibits on OMeka.net. We will guide participants in developing a tailored process, from identifying faculty partners to engage students in digital curation projects, to managing workflow, utilizing various technology tools, and recontextualizing materials to create different narratives.
 
 
-## Project Showcase
+## Project Showcases
 
 #### Ticha: The Story of an International, Community-Engaged Digital Humanities Project
 {: #submission-22}
