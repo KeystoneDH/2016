@@ -156,8 +156,6 @@ published: false
 
 1. Using IIIF for Small Projects - *David Newbury* ([abstract](/2016/abstracts/#submission-9))
 2. Adaptive Forms: Conditional Logic and Advanced Survey Engines - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-26))
-3. Regional DH Consortia as an Intermediate Organization for DH Work - *John Theibault* ([abstract](/2016/abstracts/#submission-20))
-
 
 **Friday 9 - 10:30am: Long Papers (Session 15)**
 
