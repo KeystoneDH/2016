@@ -90,7 +90,7 @@ published: false
 1. Interacting with _In Mrs. Goldberg's Kitchen_ - *Adam Hochstetter* ([abstract](/2016/abstracts/#submission-0))
 1. Competitors or Corroborators?: A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel - *Chris D. Jimenez* ([abstract](/2016/abstracts/#submission-7))
 1. Authority Cascades for Linked Open Data - *David Newbury* ([abstract](/2016/abstracts/#submission-10))
-1. 3. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki* ([abstract](/2016/abstracts/#submission-45))
+1. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki* ([abstract](/2016/abstracts/#submission-45))
 
 **Thursday 10:30 - 11am**
 
