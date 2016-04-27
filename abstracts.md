@@ -156,7 +156,7 @@ We needed a free open-source, viewer for these digital objects that was compatib
 
 *Suguru Ishizaki*
 
-I propose to showcase or make a brief (7 min) presentation of our collaborative project with Pittsburgh Super Computing Center.
+I propose a short presentation of our collaborative project with Pittsburgh Super Computing Center.
 
 In the past 15 years, we have developed an interactive text analysis environment/tool for rhetoricians to uncover common rhetorical strategies used in corpora of texts. Our tool, called DocuScope, is a dictionary-based tagging engine that utilizes a rhetorical dictionary, authored by David Kaufer at Carnegie Mellon, which consists of over 40 million linguistic patterns of English hierarchically classified into over 2,400 categories of rhetorical effects. (http://www.cmu.edu/hss/english/research/docuscope.html). DocuScope has been used for many research projects in the past.
 
