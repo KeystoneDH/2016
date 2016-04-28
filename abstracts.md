@@ -335,6 +335,15 @@ In Fall 2015, ten undergraduates learned to grapple with complex issues of ident
 
 In our talk, we will each discuss our section of the course, with particular attention to (a) strategies for teaching the beginner in textual study, diversity issues, and digital method, (b) balancing the teaching of subject matter (e.g., language and identity) with the teaching of skills (e.g., learning Tableau) and, (c) collaborating across departments to address workload and organizational issues.
 
+#### Gender and Centrality in the Digital Humanities
+{: #submission-60}
+
+*Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen*
+
+The annual international Digital Humanities conference is famous for its rhetoric of inclusion, with some recent conference themes including "Big Tent DH", "Cultural Empowerment", and "Global DH". Recently, feminism and gender studies have been particularly audible topics of discussion surrounding these conferences, and many of the most recognizable voices in the community are women's. In 2015, nearly half of all conference attendees were women. 
+
+This is difficult to reconcile with the fact that, since 2000, women made up only a third of named conference presentation authors, and in those presentations the topics of gender and feminism are rarely discussed. Indeed, those topics and related ones are systematically biased against during the conference's peer review phase. These findings are part of a study exploring 15 years of DH conference proceedings, the results of which will be presented here, along with a discussion of what is driving this disconnect and how it may be resolved. 
+
 #### Analyzing Ethos: Developing Digital Tools for Argument Analysis in the Humanities
 {: #submission-18}
 
