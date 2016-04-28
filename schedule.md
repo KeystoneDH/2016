@@ -55,7 +55,7 @@ published: false
 
 **Wednesday 1:30 - 3pm: Workshop (Session 5)**
 
-* Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, Carol Singer* ([abstract](/2016/abstracts/#submission-43))
+* Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, and Carol Singer* ([abstract](/2016/abstracts/#submission-43))
 
 **Wednesday 3pm - 5pm**
 
