@@ -84,6 +84,7 @@ published: false
 
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
 2. Gender and Centrality in the Digital Humanities - *Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen* ([abstract](/2016/abstracts/#submission-60))
+3. Mobile Media Storytelling in the Cultural Heritage Sector - *Chelsea Gunn* ([abstract](/2016/abstracts/#submission-61))
 
 
 **Thursday 9 - 10:30am: Short Papers (Session 8)**
