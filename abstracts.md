@@ -120,6 +120,17 @@ Based on preliminary research, I argue that the Soviet government detained the P
 
 A significant part of my project is mapping. Using Russian archival sources and the program ArcGIS, I aim to answer key questions related to the German POW Gulag experience including: First, were the main POW camps located in rural or in urban areas, and how isolated were they from the Soviet prison population and the free population? Second, what contribution did the POWs make to reconstruction? Were they primarily used for resource extraction? To what extent did they have a hand in reconstructing the massive destruction of cities? Third, how did they fit into the Soviet Gulag forced labor system? Were they primarily distributed to POW only camps or were they integrated into existing ones for political prisoners and convicts? Finally, how did their geographical location shape the experiences of POWs?
 
+#### Mobile Media Storytelling in the Cultural Heritage Sector
+{: #submission-61}
+
+*Chelsea Gunn*
+
+Site-specific narratives, from physical signage to guided walking tours, are a longstanding tradition in cultural heritage organizations. More recently, the adoption of locative mobile smartphone applications has provided libraries, archives, museums, and historical societies with new platforms for situating content in public space. These initiatives often take the form of mobile walking tours and audio walks or augmented reality applications that allow users to view historical images of a specific site from within its present-day location. Often, they are described as innovative tools for outreach, contextualizing collections in the physical environment and promoting access to an expanded audience.
+
+This paper examines how user engagement with such applications might be evaluated over time. This includes traditional assessments of user behavior captured from website or application analytics, as well as how the platforms themselves are designed to encourage active participation on the part of the users. To that end, applications specifically designed to foster civic engagement are explored as potential models for engagement with cultural heritage content in public space. By viewing mobile media storytelling applications through a participatory lens, cultural heritage organizations may reevaluate how content can be effectively disseminated, but also how they are situated within their own communities. 
+
+
+
 #### Toward a Taxonomy of Collaboration
 {: #submission-17}
 
