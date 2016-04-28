@@ -44,6 +44,7 @@ published: false
 
 1. Tag-Team Teaching a DH-Inflected Diversity Course - *Linda Troost, HJ Manzari, Christy Shaughnessy, Susan Vdovichenko, and Charles Hannon* ([abstract](/2016/abstracts/#submission-23))
 1. Effects of Task Complexity on ESL Students’ Argumentative Writing: Using DocuScope as a Tool for Analyzing Students’ Writing - *Maria Pia Gomez-Laich* ([abstract](/2016/abstracts/#submission-24))
+2. Student Videos: Teaching the Mechanics - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-27))
 
 
 **Wednesday 1:30 - 3pm: Long Papers (Session 4)**
@@ -81,8 +82,8 @@ published: false
 
 **Thursday 9 - 10:30am: Long Papers (Session 7)**
 
-1. Student Videos: Teaching the Mechanics - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-27))
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
+2. Gender and Centrality in the Digital Humanities - *Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen* ([abstract](/2016/abstracts/#submission-60))
 
 
 **Thursday 9 - 10:30am: Short Papers (Session 8)**
