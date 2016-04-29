@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-published: false
+published: true
 ---
 
 # Keystone DH: Conference Schedule
