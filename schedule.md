@@ -161,14 +161,14 @@ published: false
 
 * Coffee Break
 
-**Friday 11am - 12:30pm**
+**Friday 11am - 12:30pm: Long Papers (Session 16)**
 
 1. Towards Collaborative, Accessible Journal Publishing - *Hal Hinderliter* ([abstract](/2016/abstracts/#submission-15))
 1. Toward a Taxonomy of Collaboration - *Jacob Heil* ([abstract](/2016/abstracts/#submission-17))
 1. What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_ - *Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-28))
 
 
-**Friday 11am - 12:30pm**
+**Friday 11am - 12:30pm: Long Papers (Session 17)**
 
 1. Git Started! - *Rebecca Parker* ([abstract](/2016/abstracts/#submission-37))
 1. Building and Managing a Digital English Studio: Collaborative Aspects - *Stuart Selber, Daniel Tripp, and Leslie Mateer* ([abstract](/2016/abstracts/#submission-44))
