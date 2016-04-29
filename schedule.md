@@ -46,8 +46,8 @@ published: false
 **Wednesday 1:30 - 3pm: Long Papers (Session 4)**
 
 1. "What Does It Matter Where One Lives?": Spatial Mapping and Edith Wharton's _The Age of Innocence_ - *Meredith Goldsmith* ([abstract](/2016/abstracts/#submission-32))
-1. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42))
-1. German POWs in the Soviet Gulag: Mapping Their Experiences, 1941-1956 - *Susan Grunewald* ([abstract](/2016/abstracts/#submission-46))
+2. German POWs in the Soviet Gulag: Mapping Their Experiences, 1941-1956 - *Susan Grunewald* ([abstract](/2016/abstracts/#submission-46))
+3. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42)) 
 
 **Wednesday 1:30 - 3pm: Workshop (Session 5)**
 
@@ -57,10 +57,9 @@ published: false
 
 * Tours in and around Pitt's beautiful neighborhood, Oakland. Locations TBA soon.
 
-**Wednesday 5pm: Keynote (and reception)**
+**Wednesday 5pm: Keynote (followed by a reception)**
 
-* Roopika Risam, "Only Collaborate! Postcolonial Imperatives for Community in the Digital Humanities"
-* The keynote address will be followed by a reception
+* *Roopika Risam*, "Only Collaborate! Postcolonial Imperatives for Community in the Digital Humanities"
 
 ## Thursday June 23
 
