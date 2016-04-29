@@ -70,14 +70,14 @@ published: false
 **Thursday 9 - 10:30am: Long Papers (Session 6)**
 
 1. Gender and Centrality in the Digital Humanities - *Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen* ([abstract](/2016/abstracts/#submission-60))
-2. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41))
+2. Toward a Theory of Time for the Digital Humanities - *Tim Gorichanaz* ([abstract](/2016/abstracts/#submission-50))
 3. A Guerrilla Theory for the Digital Humanities - *Matt Applegate* ([abstract](/2016/abstracts/#submission-29))
 
 **Thursday 9 - 10:30am: Long Papers (Session 7)**
 
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
+2. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41))
 2. Mobile Media Storytelling in the Cultural Heritage Sector - *Chelsea Gunn* ([abstract](/2016/abstracts/#submission-61))
-2. Toward a Theory of Time for the Digital Humanities - *Tim Gorichanaz* ([abstract](/2016/abstracts/#submission-50))
 
 **Thursday 9 - 10:30am: Short Papers (Session 8)**
 
