@@ -2,7 +2,7 @@
 layout: page
 title: Abstracts
 permalink: /abstracts/
-published: false
+published: true
 ---
 
 * [Long and Short Presentations](#long-presentations)
