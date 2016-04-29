@@ -23,36 +23,31 @@ published: false
 
 * Opening Remarks
 
-
 **Wednesday 10 - 11:30am: Long Papers (Session 1)**
 
 1. Augmenting the Historic House Museum: The Impact of Community Partnership and Augmented Reality on Visitor Experience at Riversdale House - *Quint Gregory, Nicole Riesenberger, and Caroline Paganussi* ([abstract](/2016/abstracts/#submission-36))
-1. Tracing the Influence of "The Right to Privacy" - *Susan Tanner* ([abstract](/2016/abstracts/#submission-47))
-1. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48))
-
-
-**Wednesday 10 - 11:30am: Panel Presentation (Session 2)**
-
-* Videogame Adaptation - *Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi* ([abstract](/2016/abstracts/#submission-5))
-
-
-**Wednesday 11:30am - 1:30pm**
-
-* Lunch Break
-
-**Wednesday 1:30 - 3pm: Long Papers (Session 3)**
+2. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48))
+3. Augmented Reality as a Platform for Collaboration - *Robert Fletcher* ([abstract](/2016/abstracts/#submission-39))
+ 
+**Wednesday 10 - 11:30am: Long Papers (Session 2)**
 
 1. Tag-Team Teaching a DH-Inflected Diversity Course - *Linda Troost, HJ Manzari, Christy Shaughnessy, Susan Vdovichenko, and Charles Hannon* ([abstract](/2016/abstracts/#submission-23))
 1. Effects of Task Complexity on ESL Students’ Argumentative Writing: Using DocuScope as a Tool for Analyzing Students’ Writing - *Maria Pia Gomez-Laich* ([abstract](/2016/abstracts/#submission-24))
 2. Student Videos: Teaching the Mechanics - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-27))
 
+**Wednesday 11:30am - 1:30pm**
+
+* Lunch Break
+
+**Wednesday 1:30 - 3pm: Panel Presentation (Session 3)**
+
+* Videogame Adaptation - *Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi* ([abstract](/2016/abstracts/#submission-5))
 
 **Wednesday 1:30 - 3pm: Long Papers (Session 4)**
 
 1. "What Does It Matter Where One Lives?": Spatial Mapping and Edith Wharton's _The Age of Innocence_ - *Meredith Goldsmith* ([abstract](/2016/abstracts/#submission-32))
 1. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42))
 1. German POWs in the Soviet Gulag: Mapping Their Experiences, 1941-1956 - *Susan Grunewald* ([abstract](/2016/abstracts/#submission-46))
-
 
 **Wednesday 1:30 - 3pm: Workshop (Session 5)**
 
@@ -75,17 +70,15 @@ published: false
 
 **Thursday 9 - 10:30am: Long Papers (Session 6)**
 
-1. A Guerrilla Theory for the Digital Humanities - *Matt Applegate* ([abstract](/2016/abstracts/#submission-29))
-1. Augmented Reality as a Platform for Collaboration - *Robert Fletcher* ([abstract](/2016/abstracts/#submission-39))
-1. Toward a Theory of Time for the Digital Humanities - *Tim Gorichanaz* ([abstract](/2016/abstracts/#submission-50))
-
+1. Gender and Centrality in the Digital Humanities - *Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen* ([abstract](/2016/abstracts/#submission-60))
+2. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41))
+3. A Guerrilla Theory for the Digital Humanities - *Matt Applegate* ([abstract](/2016/abstracts/#submission-29))
 
 **Thursday 9 - 10:30am: Long Papers (Session 7)**
 
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
-2. Gender and Centrality in the Digital Humanities - *Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen* ([abstract](/2016/abstracts/#submission-60))
-3. Mobile Media Storytelling in the Cultural Heritage Sector - *Chelsea Gunn* ([abstract](/2016/abstracts/#submission-61))
-
+2. Mobile Media Storytelling in the Cultural Heritage Sector - *Chelsea Gunn* ([abstract](/2016/abstracts/#submission-61))
+2. Toward a Theory of Time for the Digital Humanities - *Tim Gorichanaz* ([abstract](/2016/abstracts/#submission-50))
 
 **Thursday 9 - 10:30am: Short Papers (Session 8)**
 
@@ -120,7 +113,7 @@ published: false
 
 1. Analyzing Ethos: Developing Digital Tools for Argument Analysis in the Humanities - *James Wynn and Rick Costa* ([abstract](/2016/abstracts/#submission-18))
 1. Mediating Native Languages in the Navajo Verb Generator Project - *Nabil Kashyap* ([abstract](/2016/abstracts/#submission-33))
-1. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41))
+1. Tracing the Influence of "The Right to Privacy" - *Susan Tanner* ([abstract](/2016/abstracts/#submission-47))
 
 
 **Thursday 2 - 3:30pm: Long Papers (Session 11)**
