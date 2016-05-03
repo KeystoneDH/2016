@@ -346,6 +346,13 @@ In Fall 2015, ten undergraduates learned to grapple with complex issues of ident
 
 In our talk, we will each discuss our section of the course, with particular attention to (a) strategies for teaching the beginner in textual study, diversity issues, and digital method, (b) balancing the teaching of subject matter (e.g., language and identity) with the teaching of skills (e.g., learning Tableau) and, (c) collaborating across departments to address workload and organizational issues.
 
+#### Allá y Aquí: American and Mexican News Perceptions of Ciudad Juarez
+{: #submission-62}
+
+*Roberto Vargas*
+
+If you know of Ciudad Juarez, Mexico, then you know of its claim to fame: violence. This one-dimensional view of Juarez is reflected in multiple ways through many outlets: academic papers, books and, more widely, the news. In this short presentation (7 minutes), we will demonstrate the early progress and development of “Allá y Aquí: American and Mexican News Perceptions of Ciudad Juarez ,” an ongoing project that seeks to compare and contrast how the news outlets represent and write about Ciudad Juarez here in the United States versus in Ciudad Juarez. Using known tools for text analysis, we seek to test whether geographical distance affects how writers think of the city and whether the missing vocabulary on both sides can tell a story that is different than the one written.  As the project continues to develop and expand over this upcoming year, in collaboration with the Swarthmore College faculty, we will try to deal with questions of English and Spanish pragmatics (from a general linguistics sense) and to explore the textual impact context has on what is written. Knowing the ambitious nature of this project, we understand that there are many questions we have not asked and will continue to refine our approach as we feel deeply connected to this city and how others perceive it. 
+
 #### Gender and Centrality in the Digital Humanities
 {: #submission-60}
 
