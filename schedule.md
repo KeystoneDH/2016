@@ -118,7 +118,7 @@ published: true
 
 **Thursday 2 - 3:30pm: Long Papers (Session 11)**
 
-1. Topic Modeling Communities of Discourse in Doctoral Dissertations - *Benjamin Miller* ([abstract](/2016/abstracts/#submission-3))
+1. What Made the Front Page in the 19th Century?: Computationally Classifying Genre in “Viral Texts” - *Jonathan D. Fitzgerald* ([abstract](/2016/abstracts/#submission-21))
 1. Representing the Un/der-represented: Using Data Visualization to Explore Diversity and Inclusion for Academic Library Collections - *Bobby L. Smiley* ([abstract](/2016/abstracts/#submission-4))
 1. When Literature Refuses to Act its Age: Large-Scale Stylochronometry among the Weird Genres - *Matthew Lavin* ([abstract](/2016/abstracts/#submission-31))
 
@@ -155,7 +155,7 @@ published: true
 **Friday 9 - 10:30am: Long Papers (Session 15)**
 
 1. Digital Text Encoding of 18th-Century French Novels Reveals Modern Misconceptions About Narrative Structure - *Benjamin H. Baker* ([abstract](/2016/abstracts/#submission-2))
-1. What Made the Front Page in the 19th Century?: Computationally Classifying Genre in “Viral Texts” - *Jonathan D. Fitzgerald* ([abstract](/2016/abstracts/#submission-21))
+1. Topic Modeling Communities of Discourse in Doctoral Dissertations - *Benjamin Miller* ([abstract](/2016/abstracts/#submission-3))
 1. Emily Dickinson: Fascicle 16 - *Nicole Lottig, Brooke Stewart, and Brooke Lawrence* ([abstract](/2016/abstracts/#submission-34))
 
 **Friday 10:30 - 11am**
