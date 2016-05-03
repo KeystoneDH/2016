@@ -338,7 +338,7 @@ Our digital project uses TEI to align Southey’s text with the Spanish “origi
 #### Tag-Team Teaching a DH-Inflected Diversity Course
 {: #submission-23}
 
-*Linda Troost, HJ Manzari, Christy Shaughnessy, Susan Vdovichenko, and Charles Hannon*
+*Linda Troost and Charles Hannon*
 
 Five faculty members from four departments (Computer and Information Science, English, Russian, and Spanish) created and taught “Identity, Ethnicity, and the Digital Humanities,” a course for undergraduates in which technological tools were used to investigate representations of identity and ethnicity in literary and cultural texts. The course also satisfied student-learning outcomes in two general-education areas (Humanities and Diversity) and one program (English, where our course was housed).
 
