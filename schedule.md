@@ -31,7 +31,7 @@ published: true
  
 **Wednesday 10 - 11:30am: Long Papers (Session 2)**
 
-1. Tag-Team Teaching a DH-Inflected Diversity Course - *Linda Troost, HJ Manzari, Christy Shaughnessy, Susan Vdovichenko, and Charles Hannon* ([abstract](/2016/abstracts/#submission-23))
+1. Tag-Team Teaching a DH-Inflected Diversity Course - *Linda Troost and Charles Hannon* ([abstract](/2016/abstracts/#submission-23))
 1. Effects of Task Complexity on ESL Students’ Argumentative Writing: Using DocuScope as a Tool for Analyzing Students’ Writing - *Maria Pia Gomez-Laich* ([abstract](/2016/abstracts/#submission-24))
 2. Student Videos: Teaching the Mechanics - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-27))
 
@@ -85,6 +85,7 @@ published: true
 1. Competitors or Corroborators?: A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel - *Chris D. Jimenez* ([abstract](/2016/abstracts/#submission-7))
 1. Authority Cascades for Linked Open Data - *David Newbury* ([abstract](/2016/abstracts/#submission-10))
 1. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki* ([abstract](/2016/abstracts/#submission-45))
+2. Allá y Aquí: American and Mexican News Perceptions of Ciudad Juarez - *Roberto Vargas* ([abstract](/2016/abstracts/#submission-62))
 
 **Thursday 10:30 - 11am**
 
