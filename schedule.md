@@ -77,7 +77,7 @@ published: true
 
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
 2. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41))
-2. Mobile Media Storytelling in the Cultural Heritage Sector - *Chelsea Gunn* ([abstract](/2016/abstracts/#submission-61))
+2. Mobile Media Storytelling in the Cultural Heritage Sector - *Chelsea Gunn and Aisling Quigley* ([abstract](/2016/abstracts/#submission-61))
 
 **Thursday 9 - 10:30am: Short Papers (Session 8)**
 
