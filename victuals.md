@@ -12,7 +12,7 @@ Pittsburgh is a great town for eating food in restaurants. But don't take my wor
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1iVDCxPGLMJw3jgyCpUtN43B60Gk" width="640" height="480"></iframe>
 
-We've compiled some specific recommendations near the conference venue, but if you are interested in venturing farther out check out the following neighborhoods:
+We've also put together some specific recommendations near the conference venue, but if you are interested in venturing farther out check out the following neighborhoods:
 
 - [Downtown](https://goo.gl/maps/mwbqoyqVeZy) (or Dahntahn as we say in Pittsburgh) - Downtown Pittsburgh is BACK! Be sure to check out the *cultural district* along Penn Ave and Liberty Ave for good places to eat and drink. You can eat [Meat & Potatoes](https://goo.gl/maps/JEXY4GfL4GC2) or [Täkō](https://goo.gl/maps/cnx7WZVsjdD2)s.
 - [Lawrenceville](https://goo.gl/maps/Ds9qR2eiXL22) - The hipster capital of Pittsburgh has many cool places for eating and drinking along Butler Ave, especially around the intersection of Butler and Main St. If you are willing to trek to [Upper Lawrenceville](https://goo.gl/maps/g9UUq7XcQkC2) check out https://goo.gl/maps/TSRGchT49Js and The Buttonwood [Bake Consortium](https://goo.gl/maps/QaP12KHX3pS2).
