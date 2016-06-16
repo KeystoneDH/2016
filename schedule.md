@@ -33,7 +33,7 @@ Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 2. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48))
 3. Augmented Reality as a Platform for Collaboration - *Robert Fletcher* ([abstract](/2016/abstracts/#submission-39))
  
-**Wednesday 10 - 11:30am: Long Papers (Session 2)**
+**Wednesday 10 - 11:30am: Long Papers (Session 2)**  
 Location: _Amy Knapp Room, Hillman Library, Room G74_
 
 1. Tag-Team Teaching a DH-Inflected Diversity Course - *Linda Troost and Charles Hannon* ([abstract](/2016/abstracts/#submission-23))
@@ -56,7 +56,7 @@ Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 2. German POWs in the Soviet Gulag: Mapping Their Experiences, 1941-1956 - *Susan Grunewald* ([abstract](/2016/abstracts/#submission-46))
 3. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42)) 
 
-**Wednesday 1:30 - 3pm: Workshop (Session 5)**
+**Wednesday 1:30 - 3pm: Workshop (Session 5)**  
 Location: _Amy Knapp Room, Hillman Library, Room G74_
 
 * Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, and Carol Singer* ([abstract](/2016/abstracts/#submission-43))
