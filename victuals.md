@@ -37,7 +37,7 @@ While we will be a light breakfast served at the conference, there are several o
 ### Lunch
 
 - [The Porch at Schenley](https://goo.gl/maps/ysRTa6rkPSH2) has pizzas, salads, and sandwiches.
-- [Conflit Kitchen](https://goo.gl/maps/WyHHSTRBKdr) is a fun lunch spot that serves ethnic fair from countries currently in conflict with the United States. They are currently serving Iranian food.
+- [Conflict Kitchen](https://goo.gl/maps/WyHHSTRBKdr) is a fun lunch spot that serves ethnic fair from countries currently in conflict with the United States. They are currently serving Iranian food.
 - [Spice Island Tea House](https://goo.gl/maps/WzoGicauA382) is a delightful Southeast Asian restaurant. Their pumpkin curry is awesome.
 - [Ali Baba](https://goo.gl/maps/ESTFbfDYsUu) is a middle-eastern restaurant on Craig street, near CMU, with falafel n'at.
 - [Hello Bistro](https://goo.gl/maps/goCZye9gjEC2) is another local chain serving burgers, but also substantial salads (with things like kale and quinoa). Salads are good, so they can get a bit busy at lunchtime.
