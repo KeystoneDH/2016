@@ -32,7 +32,7 @@ Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 1. Augmenting the Historic House Museum: The Impact of Community Partnership and Augmented Reality on Visitor Experience at Riversdale House - *Quint Gregory, Nicole Riesenberger, and Caroline Paganussi* ([abstract](/2016/abstracts/#submission-36))
 2. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48))
 3. Augmented Reality as a Platform for Collaboration - *Robert Fletcher* ([abstract](/2016/abstracts/#submission-39))
- 
+
 **Wednesday 10 - 11:30am: Long Papers (Session 2)**  
 Location: _Amy Knapp Room, Hillman Library, Room G74_
 
@@ -54,17 +54,20 @@ Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 
 1. "What Does It Matter Where One Lives?": Spatial Mapping and Edith Wharton's _The Age of Innocence_ - *Meredith Goldsmith* ([abstract](/2016/abstracts/#submission-32))
 2. German POWs in the Soviet Gulag: Mapping Their Experiences, 1941-1956 - *Susan Grunewald* ([abstract](/2016/abstracts/#submission-46))
-3. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42)) 
+3. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42))
 
 **Wednesday 1:30 - 3pm: Workshop (Session 5)**  
 Location: _Amy Knapp Room, Hillman Library, Room G74_
 
 * Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, and Carol Singer* ([abstract](/2016/abstracts/#submission-43))
 
-**Wednesday 3pm - 5pm**  
+**Wednesday 3pm - 5pm: Tours**  
 Initial Meet-Up Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 
-* Tours in and around Pitt's beautiful neighborhood, Oakland. Locations TBA soon.
+- University of Pittsburgh Special Collections
+- Carnegie Public Library Special Collections
+- The Nationality Rooms at the Cathedral of Learning
+
 
 **Wednesday 5pm: Keynote (followed by a reception)**  
 Location: _Digital Scholarship Commons, Hillman Library, Room G49_
@@ -136,9 +139,9 @@ Location: _Hillman Library, Room 272_
 **Thursday 2 - 3:30pm: Long Papers (Session 11)**  
 Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 
+1. When Literature Refuses to Act its Age: Large-Scale Stylochronometry among the Weird Genres - *Matthew Lavin* ([abstract](/2016/abstracts/#submission-31))
 1. What Made the Front Page in the 19th Century?: Computationally Classifying Genre in “Viral Texts” - *Jonathan D. Fitzgerald* ([abstract](/2016/abstracts/#submission-21))
 1. Representing the Un/der-represented: Using Data Visualization to Explore Diversity and Inclusion for Academic Library Collections - *Bobby L. Smiley* ([abstract](/2016/abstracts/#submission-4))
-1. When Literature Refuses to Act its Age: Large-Scale Stylochronometry among the Weird Genres - *Matthew Lavin* ([abstract](/2016/abstracts/#submission-31))
 
 
 **Thursday 2 - 3:30pm: Workshop (Session 12)**  
@@ -151,10 +154,14 @@ Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 
 * Coffee Break
 
-**Thursday 4 - 6pm**  
+**Thursday 4 - 6pm: Tours**  
 Initial Meet-Up Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 
-* Tours around Greater Pittsburgh. Locations TBA soon.
+- University of Pittsburgh Archives & High Density Storage
+- Digital Scholarship Services / Visual Media Workshop
+- The Nationality Rooms at the Cathedral of Learning
+
+
 
 ## Friday June 24
 
@@ -169,7 +176,7 @@ Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 1. Taking Flight: Expanding a Crowdsourcing Program in Support of New Research - *Mark Anderson* ([abstract](/2016/abstracts/#submission-25))
 1. On the Diversity of Digital Decay - *Robert Sieczkiewicz* ([abstract](/2016/abstracts/#submission-40))
 1. Interdisciplinary Approaches to Metadata - *Tom Lombardi* ([abstract](/2016/abstracts/#submission-52))
- 
+
 **Friday 9 - 10:30am: Long Papers (Session 14)**  
 Location: _Hillman Library, Room 272_
 
