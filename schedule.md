@@ -62,12 +62,16 @@ Location: _Amy Knapp Room, Hillman Library, Room G74_
 * Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, and Carol Singer* ([abstract](/2016/abstracts/#submission-43))
 
 **Wednesday 3pm - 5pm: Tours**  
-Initial Meet-Up Location: _Digital Scholarship Commons, Hillman Library, Room G49_
+Initial Meet-Up Location: _Digital Scholarship Commons, Hillman Library, Room G49_  
+Advance sign-up sheets will be available at the Information Desk, but do not hesitate to come by at 3pm to see if there are still spaces left on the tours.
 
 - University of Pittsburgh Special Collections
 - Carnegie Public Library Special Collections
 - The Nationality Rooms at the Cathedral of Learning
+ 
+>You may also feel free to take a short walk and visit the Carnegie Museum of Art and/or the Carnegie Museum of Natural History, both of which are located just across Schenley Plaza from Hillman Library. The ticket entrance is no more than a 5-minute walk away (map to entrance here: https://goo.gl/maps/Cv8rbyV2TN32). Regular adult admission is $19.95. Student admission (with ID) is $11.95. **However, if you enter after 3pm, admission is half price!**
 
+>Also close by is the world-renowned Phipps Conservatory and Botanical Gardens, which is no more than a 10-minute walk away (map to entrance here: https://goo.gl/maps/svmq37P1dk62). Regular adult admission is $15.00. There is no student admission rate.
 
 **Wednesday 5pm: Keynote (followed by a reception)**  
 Location: _Digital Scholarship Commons, Hillman Library, Room G49_
@@ -155,13 +159,16 @@ Location: _Digital Scholarship Commons, Hillman Library, Room G49_
 * Coffee Break
 
 **Thursday 4 - 6pm: Tours**  
-Initial Meet-Up Location: _Digital Scholarship Commons, Hillman Library, Room G49_
+Initial Meet-Up Location: _Digital Scholarship Commons, Hillman Library, Room G49_  
+Advance sign-up sheets will be available at the Information Desk, but do not hesitate to come by at 3pm to see if there are still spaces left on the tours.
 
 - University of Pittsburgh Archives & High Density Storage
 - Digital Scholarship Services / Visual Media Workshop
 - The Nationality Rooms at the Cathedral of Learning
 
+>You may also feel free to take a short walk and visit the Carnegie Museum of Art and/or the Carnegie Museum of Natural History, both of which are located just across Schenley Plaza from Hillman Library. The ticket entrance is no more than a 5-minute walk away (map to entrance here: https://goo.gl/maps/Cv8rbyV2TN32). Regular adult admission is $19.95. Student admission (with ID) is $11.95. **However, if you enter after 3pm, admission is half price!**
 
+>Also close by is the world-renowned Phipps Conservatory and Botanical Gardens, which is no more than a 10-minute walk away (map to entrance here: https://goo.gl/maps/svmq37P1dk62). Regular adult admission is $15.00. There is no student admission rate.
 
 ## Friday June 24
 
