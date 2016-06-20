@@ -59,7 +59,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Wednesday 1:30 - 3pm: Workshop (Session 5)**  
 Location: _Amy Knapp Room, Hillman Library_
 
-* Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, and Carol Singer* ([abstract](/2016/abstracts/#submission-43))
+* Curating the Digital: Collaboration and Transformation - *Stefanie Dennis Hunker, Jolie Sheffer, and Carol Singer* ([abstract](/2016/abstracts/#submission-43)) - [Workshop Materials](http://libguides.bgsu.edu/CuratingtheDigital)
 
 **Wednesday 3pm - 5pm: Tours**  
 Initial Meet-Up Location: _Digital Scholarship Commons, Hillman Library_  
