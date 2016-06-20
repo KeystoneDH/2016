@@ -389,6 +389,26 @@ Keystone DH is representative of the emergence of a new, informal structure for 
 
 The purpose of this paper is to explore the purposes of such informal geographical consortia and to determine what characteristics (if any) they share. A systematic approach to understanding this relatively new phenomenon may help Keystone DH as it continues to refine its own mission and reach.-->
 
+#### Panel: Videogame Adaptation
+{: #submission-5}
+
+*Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi*
+
+As videogames continue to emerge as a dominant twenty-first-century form, it is becoming clearer that they have complex relationships to other media. This panel, part of a larger collaborative project, will address issues of adaptation and videogames from a transmedia perspective, drawing particularly on the resources provided by film and literary studies.
+
+"Videogame Adaptation: Some Experiments in Method" - Kevin M. Flanagan, University of Pittsburgh
+
+This paper outlines the concerns and conceptual practices of videogame adaptation, noting the many ways in which videogames shape, or are shaped by, ideas, narratives, and mechanics from other media. In situating videogames into the discourses of textual transformation that animate current work in adaptation studies, I argue that traditional approaches to adaptation in English departments (which privilege novel-to-film adaptation in a one-to-one correspondence) have a lot to learn from games, which function as adaptations at all stages of their production and consumption. I also demonstrate how adaptation studies challenges claims to medium specificity that form a foundational conceit of videogame studies.
+
+"Metaproceduralism: The Stanley Parable and Postmodern Metafiction" - Bradley J. Fest, University of Pittsburgh
+
+Most critics of contemporary literature have reached a consensus that what was once called "postmodernism" is over and that its signature modes—metafiction and irony—are on the wane. This is not the case, however, with videogames. In recent years, a number of self-reflexive games have appeared, exemplified by Davey Wreden's The Stanley Parable (2013): an ironic game about games. When self-awareness migrates form print to screen, however, something happens. If metafiction can be characterized by how it draws attention to language and representation, this paper will argue how self-reflexivity in videogames is best understood in terms of action and procedure, as metaproceduralism.
+
+"Playing Los Angeles Itself: Experiencing the Digital Documentary Environment in LA Noire" - Jedd Hakimi, University of Pittsburgh
+
+Almost everything about the predominantly faithful depiction of 1947 Los Angeles in the recent, police-procedural videogame LA Noire (2011) was based on archival material, including period maps, photography, and film footage. And while scholars have thought extensively about how film spectators experience mediated depictions of real-world cities, the videogame player's parallel experience has been relatively unexplored. Accordingly, I take LA Noire's simulacrum as an opportunity to reflect on what happens when a real-world environment is adapted into the setting for a videogame. Specifically, I position LA Noire in the tradition of the "city-symphony" film and a particular sub-set of Film Noir known as the "semi-documentary" to make the case LA Noire contains crucial aspects of the documentary image.  Consequently, LA Noire is not so much creating a fictional, diegetic world, as it is presenting our own world back to us in a manner that changes the way we experience the world in which we live 
+
+
 ## Workshops
 
 #### TEI for Historical Manuscripts and Letters: A Beginner's Workshop on Transcription, Metadata, Paleography and Code
