@@ -17,3 +17,5 @@ The 2016 Keystone Digital Humanities conference is made possible thanks to the g
 ![Pennsylvania State University](../images/penn-state-logo.png)
 
 ![University of Pennsylvania](../images/penn-logo.png)
+
+![Carnegie Mellon](../images/cmu-logo.png)
