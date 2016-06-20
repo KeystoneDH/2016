@@ -21,7 +21,7 @@ The 2016 Keystone Digital Humanities conference will be hosted on the ground flo
 
 ### Public Transportation around Pittsburgh
 
-Pittsburgh has an extensive bus system run by the [Port Authority](http://www.portauthority.org/paac/default.aspx). The bus fair is $2.50. Please see their [schedules and maps](http://www.portauthority.org/paac/SchedulesMaps/TripPlanner.aspx) page for more information about getting around. 
+Pittsburgh has an extensive bus system run by the [Port Authority](http://www.portauthority.org/paac/default.aspx). The bus fare is $2.50. Please see their [schedules and maps](http://www.portauthority.org/paac/SchedulesMaps/TripPlanner.aspx) page for more information about getting around. 
 
 [Uber](http://www.uber.com) and [Lyft](http://www.lyft.com) are also good options for getting around town.
 
