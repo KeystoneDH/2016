@@ -79,7 +79,24 @@ There are multiple transportation options fro the [Pittsburgh International Airp
 
 For attendees who are not staying at the hotel or dormitory, there are mutple parking options in Oakland near the conference accommodations and venue.
 
-- Visit the University of Pittsburgh's [Visitor Parking Website](http://www.pts.pitt.edu/parking/visitor.html) for more information.
+There are two overnight parking options close to Bouquet Gardens:
+ 
+Soldiers and Sailors Garage  
+Address: 4215 5th Avenue, Pittsburgh PA 15213  
+Map Link: https://goo.gl/maps/ctK6CmPisXq  
+Information: http://www.alcoparking.com/university-of-pittsburgh/soldiers-and-sailors-parking-garage  
+Cost: $14 a day  
+ 
+ 
+Forbes Semple Garage  
+Address: 210 Meyran Ave, Pittsburgh, PA 15213  
+Map Link: https://goo.gl/maps/7hfHAMPm5ZS2  
+Information: http://www.pittsburghparking.com/forbes-semple  
+Cost: $12 a day  
+ 
+NOTE: The neighborhood of Oakland is very busy during business hours; this means the garages can sometimes fill up. Once you get a space we recommend you NOT move your car during the day. This is just a precautionary measure however considering the campus is usually much quieter during the summer months
+
+Visit the University of Pittsburgh's [Visitor Parking Website](http://www.pts.pitt.edu/parking/visitor.html) for more information.
 
 
 ### Public Transportation around Pittsburgh
