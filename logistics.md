@@ -83,15 +83,15 @@ There are two overnight parking options close to Bouquet Gardens:
  
 Soldiers and Sailors Garage  
 Address: 4215 5th Avenue, Pittsburgh PA 15213  
-Map Link: https://goo.gl/maps/ctK6CmPisXq  
-Information: http://www.alcoparking.com/university-of-pittsburgh/soldiers-and-sailors-parking-garage  
+Map Link: [https://goo.gl/maps/ctK6CmPisXq](https://goo.gl/maps/ctK6CmPisXq)  
+Information: [http://www.alcoparking.com/university-of-pittsburgh/soldiers-and-sailors-parking-garage](http://www.alcoparking.com/university-of-pittsburgh/soldiers-and-sailors-parking-garage)  
 Cost: $14 a day  
  
  
 Forbes Semple Garage  
 Address: 210 Meyran Ave, Pittsburgh, PA 15213  
-Map Link: https://goo.gl/maps/7hfHAMPm5ZS2  
-Information: http://www.pittsburghparking.com/forbes-semple  
+Map Link: [https://goo.gl/maps/7hfHAMPm5ZS2](https://goo.gl/maps/7hfHAMPm5ZS2)  
+Information: [http://www.pittsburghparking.com/forbes-semple](http://www.pittsburghparking.com/forbes-semple)  
 Cost: $12 a day  
  
 NOTE: The neighborhood of Oakland is very busy during business hours; this means the garages can sometimes fill up. Once you get a space we recommend you NOT move your car during the day. This is just a precautionary measure however considering the campus is usually much quieter during the summer months
