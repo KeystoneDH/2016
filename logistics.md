@@ -27,9 +27,9 @@ Pittsburgh has an extensive bus system run by the [Port Authority](http://www.po
 
 ### Transportation From the Airport
 
-There are multiple transportation options fro the [Pittsburgh International Airport](http://www.flypittsburgh.com/transportation) to the city.
+There are multiple transportation options from the [Pittsburgh International Airport](http://www.flypittsburgh.com/transportation) to the city.
 
-- [Public Transportation](http://www.flypittsburgh.com/public_transportation) from the airpot to the Oakland neighborhood via the 28X Airport Flyer. This bus runs right by the hotel and dormitory.
+- [Public Transportation](http://www.flypittsburgh.com/public_transportation) from the airport to the Oakland neighborhood via the 28X Airport Flyer. This bus runs right by the hotel and dormitories.
 - [Taxis](http://www.flypittsburgh.com/limousines_taxis_buses) are available and usually run around $50-$60.
 - [Uber](https://www.uber.com/) and [Lyft](https://www.lyft.com/) are both available at the Airport. The cost is usually around $40-$50, depending upon surge pricing.
 
