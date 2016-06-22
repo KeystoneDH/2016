@@ -228,7 +228,8 @@ Our studies found that the published versions changed the original poems conside
 #### Augmented Reality Collaboration: The Augmented Palimpsest Project
 {: #submission-48}
 
-*Tamara O'Callaghan and Andrea R. Harbin*
+*Tamara O'Callaghan and Andrea R. Harbin*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/keystone-dh-slides)
 
 Our digital humanities project, The Augmented Palimpsest explores how the medium of Augmented Reality (AR) can be applied to teach medieval literature effectively. Using Chaucer’s General Prologue, the tool delivers digital enhancements that emerge from the printed page via a smart device. We are creating simple print pages with highly detailed manuscript borders set around the text of Chaucer poem. As such, each page has the appearance of a medieval manuscript folio with a border that is coded with a variety of digital enhancements, including but not limited to audio, video, and graphical materials; and 3D models of figures, architecture, and objects. The student opens our AR application or “app” on a smart device, such as an iPhone, iPad, or Android tablet/phone, and then holds that device over individual fiducials embedded in the border to access the various enhancements coded to each fiducial.  
 
