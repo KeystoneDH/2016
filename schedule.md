@@ -30,7 +30,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 
 1. Augmenting the Historic House Museum: The Impact of Community Partnership and Augmented Reality on Visitor Experience at Riversdale House - *Quint Gregory, Nicole Riesenberger, and Caroline Paganussi* ([abstract](/2016/abstracts/#submission-36))
-2. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48); ([slides] (http://www.slideshare.net/KeystoneDH/keystone-dh-slides))
+2. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48) and [slides] (http://www.slideshare.net/KeystoneDH/keystone-dh-slides))
 3. Augmented Reality as a Platform for Collaboration - *Robert Fletcher* ([abstract](/2016/abstracts/#submission-39))
 
 **Wednesday 10 - 11:30am: Long Papers (Session 2)**  
