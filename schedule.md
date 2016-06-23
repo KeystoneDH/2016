@@ -175,6 +175,10 @@ Advance sign-up sheets will be available at the Information Desk, but do not hes
 
 >Also close by is the world-renowned Phipps Conservatory and Botanical Gardens, which is no more than a 10-minute walk away ([map to entrance here](https://goo.gl/maps/svmq37P1dk62)). Regular adult admission is $15.00. There is no student admission rate.
 
+**Thursday 6:30pm-??: Casual Group Dinners**  
+Initial Meet-Up Location: _Digital Scholarship Commons, Hillman Library_  
+Advance sign-up sheets are available in the DSC! 
+
 ## Friday June 24
 
 **Friday 8:30 - 9am**  
