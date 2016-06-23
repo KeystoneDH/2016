@@ -260,7 +260,8 @@ I propose a short presentation providing an overview of IIIF, a demonstration of
 #### Authority Cascades for Linked Open Data
 {: #submission-10}
 
-*David Newbury*
+*David Newbury*  
+[Presentation Slides] (http://www.slideshare.net/workergnome/authority-cascades-a-presentation-strategy-for-linked-open-data)
 
 As Linked Open Data is increasingly embraced throughout the cultural heritage sector, we are moving from an environment of data scarcity to an environment of data overload.  For example, often we no longer have a single authority for the names and identities of the participants in some activity or event, but two, three, or even more.  Getty ULAN, VIAF, Wikidata, and other authorities provide a wealth of information about important people throughout history.  However, no authority is comprehensive, and due to the Open World Assumption different authorities may provide conflicting or inconsistent information about a single participant.
 
