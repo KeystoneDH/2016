@@ -329,7 +329,8 @@ My presentation will focus on the first part of a two-part project wherein I stu
 #### Translation Analysis with TEI: Robert Southey’s _Amadis of Gaul_
 {: #submission-42}
 
-*Stacey Triplette and Elisa Beshero-Bondar*
+*Stacey Triplette and Elisa Beshero-Bondar*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/translation-analysis-with-tei-robert-southeys-amadis-of-gaul-stacey-triplette-and-elisa-besherobondar)
 
 The late fifteenth-century Iberian romance _Amadís de Gaula_ offers an attractive opportunity for translators because it is unmoored in time, space, and authorship. Medieval versions of the story have been lost, and sixteenth-century editions of the text often stripped out the name and personality of Garci-Rodríguez de Montalvo, whose edited _Amadís_ dates to 1508 and forms the basis for modern critical editions. Though twentieth-century discoveries reveal a Castilian origin for the work, in the sixteenth through nineteenth centuries it was often thought to descend from a French or Portuguese original. Southey, translating the work into English in 1803, sustained the Portuguese thesis, and his Amadis compresses and alters the original text according to the aesthetic criteria of the Romantic era and the nascent British Empire while purporting to restore the simplicity of an idealized Portuguese ur-text.
 
