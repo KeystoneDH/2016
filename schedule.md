@@ -96,7 +96,7 @@ Location: _Hillman Library, Room 272_
 Location: _Amy Knapp Room, Hillman Library_
 
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
-2. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41))
+2. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41); [slides] (http://www.slideshare.net/KeystoneDH/exploring-the-adoption-of-stem-praxis-in-the-digital-humanities))
 2. Mobile Media Storytelling in the Cultural Heritage Sector - *Chelsea Gunn and Aisling Quigley* ([abstract](/2016/abstracts/#submission-61))
 
 **Thursday 9 - 10:30am: Short Papers (Session 8)**  
