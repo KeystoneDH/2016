@@ -374,7 +374,8 @@ Rhetorical training in argumentation has been a central part of humanist educati
 #### What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_
 {: #submission-28}
 
-*Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar*
+*Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar*  
+[Presentation Slides] (http://prezi.com/vjioygr_6-j9/?utm_campaign=share&utm_medium=copy)
 
 In a keynote to the University of Michigan’s 2016 symposium on “Text Mining Across the Disciplines,” Laura Mandell argued for oscillating between qualitative and quantitative methods, as a means of placing corpus-based insights in context. Such a call likewise suggests large-scale archival approaches as able to inform more discrete editorial questions. As Elena Pierazzo (2015) observes, contemporary editorial projects ask scholars to serve as part of diverse teams in new and emerging environments. This paper will explore how existing approaches to scholarly annotation may yield models for computationally informed _praxis_.
 
@@ -485,7 +486,8 @@ Todd Bryant will be happy to show anyone interested how to implement the Annotat
 #### Broken Books
 {: #submission-11}
 
-*Debra T. Cashion*
+*Debra T. Cashion*  
+[Presentation Slides] (http://brokenbooks.omeka.net/exhibits/show/llangattock)
 
 For many antiquarian books and manuscripts, the inevitable consequence of increased value over time results in an unfortunate fate: they are taken apart, "broken" into pieces, sold for profit among various owners and institutional collections. As scattered fragments, however, detached leaves present to scholars frustrating glimpses of historically significant texts and decorative programs that cannot be fully studied without evidence of the original work and the context in which it was produced. The Broken Books resource allows for the virtual restoration of these dismembered books, so that they can be digitally recaptured, reordered, and reconstructed, at least as much as preserved leaves of are found. Under development at the Center of Digital Humanities at Saint Louis University, this project uses IIIF technology and the Mirador viewer to create a web-based application and linked data environment that not only allows a user/administrator to manage a virtual reconstruction, but also permits other users to contribute images and information, including cataloging metadata, about undiscovered leaves.
 
@@ -501,7 +503,8 @@ This project showcase exhibits the creation of a GIS story map of Wessex, the fi
 #### Exploring Place in the French of Italy
 {: #submission-16}
 
-*Heather Hill*
+*Heather Hill*  
+[Presentation Slides] (http://www.slideshare.net/KeystoneDH/exploring-place-in-the-french-of-italy)
 
 From approximately 1250 to 1500, it became popular for writers in the Italian peninsula to create and copy works in the French language. Scholars studying these French of Italy texts have traditionally used close reading to explore the corpus, assuming a geographic orientation toward France. Newer scholarship challenges this notion, arguing that these texts taken together focus instead toward the east.
 
@@ -550,7 +553,8 @@ The Luther Works Visualization Project is meant to provide a resource for both L
 #### Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks
 {: #submission-6}
 
-*Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey*
+*Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey*  
+[Presentation Slides] (http://www.slideshare.net/KeystoneDH/mapping-the-imagined-south)
 
 This project showcase is a presentation of an ongoing project mapping place names that occur in 21st century cookbooks from the American South.
 
