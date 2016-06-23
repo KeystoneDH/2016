@@ -117,9 +117,9 @@ Location: _Digital Scholarship Commons, Hillman Library_
 Location: _Digital Scholarship Commons, Hillman Library_
 
 1. Taking Livingstone Online across Disciplines, Institutions, and Continents  - *Adrian Wisnicki and Ashanka Kumari* ([abstract](/2016/abstracts/#submission-1))
-1. Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks - *Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey* ([abstract](/2016/abstracts/#submission-6))
+1. Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks - *Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey* ([abstract](/2016/abstracts/#submission-6); [slides] (http://www.slideshare.net/KeystoneDH/mapping-the-imagined-south))
 1. The Luther Works Visualization Project - *Chuck Steel* ([abstract](/2016/abstracts/#submission-8))
-1. Broken Books - *Debra T. Cashion* ([abstract](/2016/abstracts/#submission-11))
+1. Broken Books - *Debra T. Cashion* ([abstract](/2016/abstracts/#submission-11); [slides] (http://brokenbooks.omeka.net/exhibits/show/llangattock))
 1. A Digital and Naturalistic Landscape of Thomas Hardy’s Wessex - *Erica Y. Hayes* ([abstract](/2016/abstracts/#submission-14))
 1. Text Annotation Modules and 19th-Century Literature - *Todd Bryant and Sarah Kersh* ([abstract](/2016/abstracts/#submission-51))
 
@@ -127,7 +127,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Thursday 11 - 12:30pm: Project Showcases (Session 9b)**  
 Location: _Amy Knapp Room, Hillman Library_
 
-1. Exploring Place in the French of Italy - *Heather Hill* ([abstract](/2016/abstracts/#submission-16))
+1. Exploring Place in the French of Italy - *Heather Hill* ([abstract](/2016/abstracts/#submission-16); [slides] (http://www.slideshare.net/KeystoneDH/exploring-place-in-the-french-of-italy))
 1. Six Degrees of Francis Bacon: A Project Showcase - *Jessica Otis* ([abstract](/2016/abstracts/#submission-19))
 1. Ticha: The Story of an International, Community-Engaged Digital Humanities Project - *Laurie Allen, Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk* ([abstract](/2016/abstracts/#submission-22))
 1. PA Digital and the DPLA: Collaborating on Collections as a Community - *Patricia Hswe* ([abstract](/2016/abstracts/#submission-35))
@@ -212,7 +212,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 1. Towards Collaborative, Accessible Journal Publishing - *Hal Hinderliter* ([abstract](/2016/abstracts/#submission-15))
 1. Toward a Taxonomy of Collaboration - *Jacob Heil* ([abstract](/2016/abstracts/#submission-17))
-1. What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_ - *Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-28))
+1. What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_ - *Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-28); [slides] (http://prezi.com/vjioygr_6-j9/?utm_campaign=share&utm_medium=copy))
 
 
 **Friday 11am - 12:30pm: Long Papers (Session 17)**  
