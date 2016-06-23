@@ -54,7 +54,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 1. "What Does It Matter Where One Lives?": Spatial Mapping and Edith Wharton's _The Age of Innocence_ - *Meredith Goldsmith* ([abstract](/2016/abstracts/#submission-32))
 2. German POWs in the Soviet Gulag: Mapping Their Experiences, 1941-1956 - *Susan Grunewald* ([abstract](/2016/abstracts/#submission-46))
-3. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42))
+3. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42); [slides](http://www.slideshare.net/KeystoneDH/translation-analysis-with-tei-robert-southeys-amadis-of-gaul-stacey-triplette-and-elisa-besherobondar))
 
 **Wednesday 1:30 - 3pm: Workshop (Session 5)**  
 Location: _Amy Knapp Room, Hillman Library_
