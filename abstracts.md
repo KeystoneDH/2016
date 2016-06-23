@@ -310,7 +310,8 @@ Building on scholarship addressing diversity in collection assessment, this pres
 #### Exploring the Adoption of STEM Praxis in the Digital Humanities
 {: #submission-41}
 
-*Sarah C. Stanley and Matthew E. Hunter*
+*Sarah C. Stanley and Matthew E. Hunter*  
+[Presentation Slides] (http://www.slideshare.net/KeystoneDH/exploring-the-adoption-of-stem-praxis-in-the-digital-humanities)
 
 As digital humanists assert themselves into the academic milieu, digital projects increasingly leverage scientific praxis for humanistic inquiry. The adoption of these practices engenders seemingly-ubiquitous digital scholarship buzzwords such as “project management,” “collaboration,” “interdisciplinarity,” and (in the scariest scare-quotes of all) “funding.” These concepts appear to be at odds with the classic image of the lone humanities scholar. While STEM researchers are accustomed to considering the influence of funding agendas on scholarship, collaborative attribution models, and product-driven scholarship, these are emergent questions for humanists.
 
