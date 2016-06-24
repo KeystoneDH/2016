@@ -88,7 +88,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Thursday 9 - 10:30am: Long Papers (Session 6)**  
 Location: _Hillman Library, Room 272_
 
-1. Gender and Centrality in the Digital Humanities - *Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen* ([abstract](/2016/abstracts/#submission-60))
+1. Gender and Centrality in the Digital Humanities - *Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen* ([abstract](/2016/abstracts/#submission-60); [slides](http://scottbot.net/wp-content/uploads/2011/11/weingart-Gender-Centrality.pdf))
 2. Toward a Theory of Time for the Digital Humanities - *Tim Gorichanaz* ([abstract](/2016/abstracts/#submission-50))
 3. A Guerrilla Theory for the Digital Humanities - *Matt Applegate* ([abstract](/2016/abstracts/#submission-29))
 
@@ -149,7 +149,7 @@ Location: _Hillman Library, Room 272_
 Location: _Digital Scholarship Commons, Hillman Library_
 
 1. When Literature Refuses to Act its Age: Large-Scale Stylochronometry among the Weird Genres - *Matthew Lavin* ([abstract](/2016/abstracts/#submission-31))
-1. What Made the Front Page in the 19th Century?: Computationally Classifying Genre in “Viral Texts” - *Jonathan D. Fitzgerald* ([abstract](/2016/abstracts/#submission-21))
+1. What Made the Front Page in the 19th Century?: Computationally Classifying Genre in “Viral Texts” - *Jonathan D. Fitzgerald* ([abstract](/2016/abstracts/#submission-21); [slides](http://www.slideshare.net/KeystoneDH/what-made-the-front-page))
 1. Representing the Un/der-represented: Using Data Visualization to Explore Diversity and Inclusion for Academic Library Collections - *Bobby L. Smiley* ([abstract](/2016/abstracts/#submission-4))
 
 
@@ -189,7 +189,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Friday 9 - 10:30am: Long Papers (Session 13)**  
 Location: _Digital Scholarship Commons, Hillman Library_
 
-1. Taking Flight: Expanding a Crowdsourcing Program in Support of New Research - *Mark Anderson* ([abstract](/2016/abstracts/#submission-25))
+1. Taking Flight: Expanding a Crowdsourcing Program in Support of New Research - *Mark Anderson* ([abstract](/2016/abstracts/#submission-25); [slides](http://www.slideshare.net/KeystoneDH/taking-flight-63417660))
 1. On the Diversity of Digital Decay - *Robert Sieczkiewicz* ([abstract](/2016/abstracts/#submission-40))
 1. Interdisciplinary Approaches to Metadata - *Tom Lombardi* ([abstract](/2016/abstracts/#submission-52))
 
