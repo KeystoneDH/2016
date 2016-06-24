@@ -129,7 +129,7 @@ Location: _Amy Knapp Room, Hillman Library_
 
 1. Exploring Place in the French of Italy - *Heather Hill* ([abstract](/2016/abstracts/#submission-16); [slides] (http://www.slideshare.net/KeystoneDH/exploring-place-in-the-french-of-italy))
 1. Six Degrees of Francis Bacon: A Project Showcase - *Jessica Otis* ([abstract](/2016/abstracts/#submission-19))
-1. Ticha: The Story of an International, Community-Engaged Digital Humanities Project - *Laurie Allen, Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk* ([abstract](/2016/abstracts/#submission-22))
+1. Ticha: The Story of an International, Community-Engaged Digital Humanities Project - *Laurie Allen, Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk* ([abstract](/2016/abstracts/#submission-22); [slides](https://docs.google.com/presentation/d/1-2CPPCpLCwMOghenLVcVN0_a_O9AbUEOyb4rK6RoIGM/edit#slide=id.p))
 1. PA Digital and the DPLA: Collaborating on Collections as a Community - *Patricia Hswe* ([abstract](/2016/abstracts/#submission-35))
 1. The Restoration of Nell Nelson - *Rob Spadafore and Rebecca Parker* ([abstract](/2016/abstracts/#submission-38))
 
