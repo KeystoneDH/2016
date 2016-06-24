@@ -90,7 +90,7 @@ Location: _Hillman Library, Room 272_
 
 1. Gender and Centrality in the Digital Humanities - *Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen* ([abstract](/2016/abstracts/#submission-60); [slides](http://scottbot.net/wp-content/uploads/2011/11/weingart-Gender-Centrality.pdf))
 2. Toward a Theory of Time for the Digital Humanities - *Tim Gorichanaz* ([abstract](/2016/abstracts/#submission-50))
-3. A Guerrilla Theory for the Digital Humanities - *Matt Applegate* ([abstract](/2016/abstracts/#submission-29))
+3. A Guerrilla Theory for the Digital Humanities - *Matt Applegate* ([abstract](/2016/abstracts/#submission-29); [slides](http://www.slideshare.net/KeystoneDH/a-guerrilla-theory-for-the-digital-humanities))
 
 **Thursday 9 - 10:30am: Long Papers (Session 7)**  
 Location: _Amy Knapp Room, Hillman Library_
@@ -102,7 +102,7 @@ Location: _Amy Knapp Room, Hillman Library_
 **Thursday 9 - 10:30am: Short Papers (Session 8)**  
 Location: _Digital Scholarship Commons, Hillman Library_
 
-1. Interacting with _In Mrs. Goldberg's Kitchen_ - *Adam Hochstetter* ([abstract](/2016/abstracts/#submission-0))
+1. Interacting with _In Mrs. Goldberg's Kitchen_ - *Adam Hochstetter* ([abstract](/2016/abstracts/#submission-0); [slides](http://www.slideshare.net/KeystoneDH/interacting-with-in-mrs-goldbergs-kitchen))
 1. Competitors or Corroborators?: A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel - *Chris D. Jimenez* ([abstract](/2016/abstracts/#submission-7))
 1. Authority Cascades for Linked Open Data - *David Newbury* ([abstract](/2016/abstracts/#submission-10); [slides] (http://www.slideshare.net/workergnome/authority-cascades-a-presentation-strategy-for-linked-open-data))
 1. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki* ([abstract](/2016/abstracts/#submission-45))
@@ -121,7 +121,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 1. The Luther Works Visualization Project - *Chuck Steel* ([abstract](/2016/abstracts/#submission-8))
 1. Broken Books - *Debra T. Cashion* ([abstract](/2016/abstracts/#submission-11); [slides](http://brokenbooks.omeka.net/exhibits/show/llangattock))
 1. A Digital and Naturalistic Landscape of Thomas Hardy’s Wessex - *Erica Y. Hayes* ([abstract](/2016/abstracts/#submission-14))
-1. Text Annotation Modules and 19th-Century Literature - *Todd Bryant and Sarah Kersh* ([abstract](/2016/abstracts/#submission-51))
+1. Text Annotation Modules and 19th-Century Literature - *Todd Bryant and Sarah Kersh* ([abstract](/2016/abstracts/#submission-51); [slides](http://www.slideshare.net/KeystoneDH/text-annotation-modules-and-19thcentury-literature))
 
 
 **Thursday 11 - 12:30pm: Project Showcases (Session 9b)**  
@@ -196,7 +196,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Friday 9 - 10:30am: Long Papers (Session 14)**  
 Location: _Hillman Library, Room 272_
 
-1. Using IIIF for Small Projects - *David Newbury* ([abstract](/2016/abstracts/#submission-9))
+1. Using IIIF for Small Projects - *David Newbury* ([abstract](/2016/abstracts/#submission-9); [slides](http://www.slideshare.net/workergnome/iiif-for-small-projects))
 2. Adaptive Forms: Conditional Logic and Advanced Survey Engines - *Mark Gallimore* ([abstract](/2016/abstracts/#submission-26))
 
 **Friday 9 - 10:30am: Long Papers (Session 15)**  
