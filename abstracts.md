@@ -377,7 +377,7 @@ Rhetorical training in argumentation has been a central part of humanist educati
 {: #submission-28}
 
 *Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar*  
-[Presentation Slides] (http://www.slideshare.net/KeystoneDH/what-might-an-archive-know)
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/what-might-an-archive-know)
 
 In a keynote to the University of Michigan’s 2016 symposium on “Text Mining Across the Disciplines,” Laura Mandell argued for oscillating between qualitative and quantitative methods, as a means of placing corpus-based insights in context. Such a call likewise suggests large-scale archival approaches as able to inform more discrete editorial questions. As Elena Pierazzo (2015) observes, contemporary editorial projects ask scholars to serve as part of diverse teams in new and emerging environments. This paper will explore how existing approaches to scholarly annotation may yield models for computationally informed _praxis_.
 
@@ -420,7 +420,7 @@ Almost everything about the predominantly faithful depiction of 1947 Los Angeles
 {: #submission-12}
 
 *Elisa Beshero-Bondar, Lisa Wilson, and Amy Gates*  
-[Presentation Slides] (http://prezi.com/vjioygr_6-j9/?utm_campaign=share&utm_medium=copy)
+[Presentation Slides](http://prezi.com/vjioygr_6-j9/?utm_campaign=share&utm_medium=copy)
 
 Join members of the Text Encoding Initiative (TEI) and editors of [the Digital Mitford project](http://digitalmitford.org) to gain hands-on experience with transcription and coding of manuscript letters. We will work with a selection of photo facsimiles and partially encoded transcriptions of letters by Mary Russell Mitford, as well as with [the TEI Guidelines]() and <oXygen/> XML editing software to give participants experience with the uses of code to contain transcription as well as information about the hands represented on the page, postal markings, and the medium on which the letters are written. We will also discuss traditional questions of textual scholarship, including how to determine dates and proper namesfrom partial clues, and what research tools we might apply to track down information we need. We will discuss practical questions and issues in coding letters for a digital archive, and consider the information resources we can build from encoding historical handwritten documents.
 
