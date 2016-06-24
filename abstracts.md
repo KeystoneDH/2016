@@ -15,7 +15,8 @@ published: true
 #### Taking Flight: Expanding a Crowdsourcing Program in Support of New Research
 {: #submission-25}
 
-*Mark Anderson*
+*Mark Anderson*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/taking-flight-63417660)
 
 DIY History is the transcription crowdsourcing program at the University of Iowa Libraries.  Starting with Civil War Diaries, a small part of sesquicentennial events in 2011, but that went viral after being picked up in a Reddit post, DIY History has now expanded to 10 collections and nearly 65,000 transcribed pages.  It acts both as a public engagement tool, and as a source for class activities on campus.
 
@@ -41,7 +42,8 @@ While today we consider the chapters of a novel to be the basic building blocks 
 #### What Made the Front Page in the 19th Century?: Computationally Classifying Genre in “Viral Texts”
 {: #submission-21}
 
-*Jonathan D. Fitzgerald*
+*Jonathan D. Fitzgerald*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/what-made-the-front-page)
 
 As part of the Viral Texts Project my colleagues and I study 19th-century newspaper content specifically through the lens of virality. In US newspapers from the 1830s to 1890s, for example, we identified more than 1.7 million reprinted texts, but the clustering algorithm only tells us that these texts were reprinted. The researcher interested in specific genres such as poems, recipes, or advice columns, still must search and browse an enormous corpus to find what they seek. To that end, we have begun to computationally classify these texts by genre.
 
@@ -360,7 +362,8 @@ If you know of Ciudad Juarez, Mexico, then you know of its claim to fame: violen
 #### Gender and Centrality in the Digital Humanities
 {: #submission-60}
 
-*Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen*
+*Scott B. Weingart, Nickoal Eichmann, Jeana Jorgensen*  
+[Presentation Slides](http://scottbot.net/wp-content/uploads/2011/11/weingart-Gender-Centrality.pdf)
 
 The annual international Digital Humanities conference is famous for its rhetoric of inclusion, with some recent conference themes including "Big Tent DH", "Cultural Empowerment", and "Global DH". Recently, feminism and gender studies have been particularly audible topics of discussion surrounding these conferences, and many of the most recognizable voices in the community are women's. In 2015, nearly half of all conference attendees were women. 
 
