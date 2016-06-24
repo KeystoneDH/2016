@@ -25,7 +25,8 @@ Most recently, its focus has grown beyond just the transcription of diaries, let
 #### A Guerrilla Theory for the Digital Humanities
 {: #submission-29}
 
-*Matt Applegate*
+*Matt Applegate*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/a-guerrilla-theory-for-the-digital-humanities)
 
 This paper charts a political economy of the digital humanities and interrogates the invocation of the guerrilla as a means of conceptualizing DH praxis. Featured most prominently in the discourse of the #transformDH movement, the guerrilla, following Natalie Cecire’s description, is a valuation of “the oppositional, the maroon, and the fugitive that characterizes #transformDH [that is] clearly indebted to the legacies of queer theory and critical race studies.” Simply stated, connected to contemporary concerns for postcolonial DH and #activistDH, the guerrilla operates as a means of thinking DH praxis from a position of radical difference. Beyond DH praxis, the guerrilla is invoked in the discourse of New Media and political economy as an ungovernable monster, a pack of wolves, and an active nihilist. It is, parallel to the DH invocation of the figure, a figure made ‘other,’ but a divisive other, one that is both violent and unpredictable.
 
@@ -156,7 +157,8 @@ By taking a closer look at who benefits from (or is excluded by) current academi
 #### Interacting with _In Mrs. Goldberg's Kitchen_
 {: #submission-0}
 
-*Adam Hochstetter*
+*Adam Hochstetter*  
+[slides](http://www.slideshare.net/KeystoneDH/interacting-with-in-mrs-goldbergs-kitchen)
 
 This short presentation will provide an overview of the interactive tools that are a part of “Jewish Life in Interwar Lodz” website. It will briefly discuss the photographic procedures for capturing panoramas and 3d objects before introducing a tool for displaying and interacting with them.
 
@@ -249,7 +251,8 @@ In addition to identifying the most frequently occurring topics in the corpus (i
 #### Using IIIF for Small Projects
 {: #submission-9}
 
-*David Newbury*
+*David Newbury*  
+[Presentation Slides](http://www.slideshare.net/workergnome/iiif-for-small-projects)
 
 IIIF, or the [International Image Interoperability Framework](http://iiif.io/), is an emerging Linked Open Data standard for image interoperability.  It defines metadata standards for dealing with high-resolution images, providing a consistent API for accessing both images, the metadata that surrounds them, and how to present and associate images together.  It is being used at the Internet Archive as well as major museums and national libraries around the world.
 
@@ -477,7 +480,8 @@ The project demonstration will introduce [*Ticha: A digital text explorer for Co
 #### Text Annotation Modules and 19th-Century Literature
 {: #submission-51}
 
-*Todd Bryant & Sarah Kersh*
+*Todd Bryant & Sarah Kersh*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/text-annotation-modules-and-19thcentury-literature)
 
 During the summer of 2015 the Mellon Foundation Digital Humanities grant at Dickinson College funded a project to produce an online, annotated edition of a volume of poems written by the 19th-century poet Michael Field, https://michaelfield.dickinson.edu/.  The team, led by Sarah Kersh, Assistant Professor of English, and Todd Bryant, Language Technology Specialist, consisted of two undergraduate English majors, and one student from computer science.  
 
