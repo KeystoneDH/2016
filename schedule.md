@@ -104,7 +104,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 1. Interacting with _In Mrs. Goldberg's Kitchen_ - *Adam Hochstetter* ([abstract](/2016/abstracts/#submission-0); [slides](http://www.slideshare.net/KeystoneDH/interacting-with-in-mrs-goldbergs-kitchen))
 1. Competitors or Corroborators?: A Comparative Digital Analysis of the Hugo and Nebula Awards for Best Novel - *Chris D. Jimenez* ([abstract](/2016/abstracts/#submission-7))
-1. Authority Cascades for Linked Open Data - *David Newbury* ([abstract](/2016/abstracts/#submission-10); [slides] (http://www.slideshare.net/workergnome/authority-cascades-a-presentation-strategy-for-linked-open-data))
+1. Authority Cascades for Linked Open Data - *David Newbury* ([abstract](/2016/abstracts/#submission-10); [slides](http://www.slideshare.net/workergnome/authority-cascades-a-presentation-strategy-for-linked-open-data))
 1. Computer-Aided Rhetorical Analysis with Supercomputing - *Suguru Ishizaki* ([abstract](/2016/abstracts/#submission-45))
 2. Allá y Aquí: American and Mexican News Perceptions of Ciudad Juarez - *Roberto Vargas* ([abstract](/2016/abstracts/#submission-62))
 
