@@ -156,7 +156,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Thursday 2 - 3:30pm: Workshop (Session 12)**  
 Location: _Amy Knapp Room, Hillman Library_
 
-* TEI for Historical Manuscripts and Letters: A Beginner's Workshop on Transcription, Metadata, Paleography and Code - *Elisa Beshero-Bondar, Lisa Wilson, and Amy Gates* ([abstract](/2016/abstracts/#submission-12)) - [Workshop Materials](https://drive.google.com/folderview?id=0B7bgSLLeaaMWV29acEQ3d1FUVWs&usp=drive_web) Participants are **not required** to download and install oXygen, but we **invite** them to do it if they're interested.
+* TEI for Historical Manuscripts and Letters: A Beginner's Workshop on Transcription, Metadata, Paleography and Code - *Elisa Beshero-Bondar, Lisa Wilson, and Amy Gates* ([abstract](/2016/abstracts/#submission-12);[slides] (http://prezi.com/vjioygr_6-j9/?utm_campaign=share&utm_medium=copy)) - [Workshop Materials](https://drive.google.com/folderview?id=0B7bgSLLeaaMWV29acEQ3d1FUVWs&usp=drive_web) Participants are **not required** to download and install oXygen, but we **invite** them to do it if they're interested.
 
 **Thursday 3:30 - 4pm**  
 Location: _Digital Scholarship Commons, Hillman Library_
@@ -216,7 +216,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 1. Towards Collaborative, Accessible Journal Publishing - *Hal Hinderliter* ([abstract](/2016/abstracts/#submission-15))
 1. Toward a Taxonomy of Collaboration - *Jacob Heil* ([abstract](/2016/abstracts/#submission-17))
-1. What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_ - *Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-28); [slides] (http://prezi.com/vjioygr_6-j9/?utm_campaign=share&utm_medium=copy))
+1. What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_ - *Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-28); [slides] (http://www.slideshare.net/KeystoneDH/what-might-an-archive-know))
 
 
 **Friday 11am - 12:30pm: Long Papers (Session 17)**  
