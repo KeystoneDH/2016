@@ -215,7 +215,8 @@ In my individual conference paper for Keystone DH, I will focus on the applicati
 #### Interdisciplinary Approaches to Metadata
 {: #submission-52}
 
-*Tom Lombardi*
+*Tom Lombardi*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/interdisciplinary-approaches-to-metadata)
 
 Modern research has produced a stunning amount of data in virtually every field of study. For example, biologists in the age of gene technologies and bioinformatics have had to grapple with this volume of data for about two decades. In particular, new approaches to evaluating metadata have been developed to address the growing need for the analysis of such data.  This paper explores the possibility of applying techniques developed for analyzing metadata in disciplines like biology to comparable metadata in art history. In particular, the research outlines the application of such techniques to the wealth of data stored in the Index of Christian Art (https://ica.princeton.edu/). The preliminary research aggregated data for over 1500 Tuscan paintings from the Fourteenth Century to identify subjects handled differently before and after the Black Death. The results demonstrate shifts in the iconography of Mary consistent with scholarly interpretations. Despite some interpretive challenges, the early results of this work suggest that such techniques could be repurposed to provide advanced search features to large metadata collections in art history. The comparison of interdisciplinary approaches to metadata offers digital humanists the opportunity to reflect on data-sharing practices in the discipline and explore the rich set of options for organizing the metadata supporting research.
 
@@ -278,14 +279,16 @@ I propose a short presentation on authority cascades, a practical technique for 
 #### Git Started!
 {: #submission-37}
 
-*Rebecca Parker*
+*Rebecca Parker*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/git-started)
 
 Managing a project team especially of undergraduates requires organization, accountability, and lots of GitHub activity. This presentation will take a behind the scenes look at the GitHub collaboration of Pitt-Greensburg's student projects and the [DHClass-Hub](https://github.com/ebeshero/DHClass-Hub). Rebecca Parker, the 2015-2016 teaching assistant to Dr. Beshero-Bondar of the University of Pittsburgh at Greensburg, will detail the important uses of Git's version control system and the social media aspects of GitHub that make it an ideal set of tools for project collaboration. She will demonstrate her personal use of GitHub as well as the unique uses of GitHub that are experienced by Pitt-Greensburg students. An overview of how to use Git shell (the command line Git interface) will encourage the audience to "look under the hood" of the Pitt-Greensburg Digital Humanities Courses. Audience members can expect to leave this presentation with the ability to collaborate on projects of any size using Git. A run through of Rebecca's [CitySlaveGirls GitHub Repository](https://github.com/RJP43/CitySlaveGirls) will model how a project with a fluctuating team of editors can maintain project stability with GitHub's detailed repository history recording and collaborator tracking. The main goal of this presentation will be to orient the audience with Git and GitHub in hopes of changing the stigma of confusion and difficulty surrounding their use.
 
 #### Building and Managing a Digital English Studio: Collaborative Aspects
 {: #submission-44}
 
-*Stuart Selber, Daniel Tripp, and Leslie Mateer*
+*Stuart Selber, Daniel Tripp, and Leslie Mateer*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/building-and-managing-a-digital-english-studio)
 
 Digital Humanities projects vary widely in their requirements for institutional support. Some people are able to work quite independently with as little as a laptop, public WIFI, and an open-source application or two. Others, and we would argue many others, are working on projects that require significant resources, social and technical. Academic institutions tend to be good at providing support for a general university population, but that type of support is often inadequate in specific situations. How might departments and programs support the individual digital projects of humanities scholars and teachers? And what types of collaborative structures are helpful to the endeavor of creating supportive environments for specific purposes?
 
@@ -404,7 +407,8 @@ The purpose of this paper is to explore the purposes of such informal geographic
 #### Panel: Videogame Adaptation
 {: #submission-5}
 
-*Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi*
+*Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi*  
+[Hakimi Presentation Slides](http://www.slideshare.net/KeystoneDH/playing-los-angeles-itself)
 
 As videogames continue to emerge as a dominant twenty-first-century form, it is becoming clearer that they have complex relationships to other media. This panel, part of a larger collaborative project, will address issues of adaptation and videogames from a transmedia perspective, drawing particularly on the resources provided by film and literary studies.
 
@@ -529,7 +533,8 @@ This project showcase will explore the EPFOI website and describe the process of
 #### PA Digital and the DPLA: Collaborating on Collections as a Community
 {: #submission-35}
 
-*Patricia Hswe*
+*Patricia Hswe*  
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/pa-digital-and-the-dpla)
 
 This project showcase will provide an update on the Pennsylvania Digital Collections Project (PDCP) and its formation of a service hub for the Digital Public Library of America (DPLA). Launched in 2013, the DPLA is consolidating digital collections through a common portal, exposing primary sources, ripe for humanities teaching and research, on a scale similar to other national digital library efforts such as HathiTrust. The PDCP was organized in 2014 to provide a more cohesive framework for statewide collaboration on enhancing discoverability of, and access to, cultural heritage resources unique to the Commonwealth. As a community of collaboration, it has mobilized participant institutions around the mutual goal of building support, service, and technology infrastructure for the sharing of Pennsylvania digital collection content - and much more broadly than would otherwise be possible as individual institutions.  
 
