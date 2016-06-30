@@ -268,7 +268,7 @@ I propose a short presentation providing an overview of IIIF, a demonstration of
 {: #submission-10}
 
 *David Newbury*  
-[Presentation Slides] (http://www.slideshare.net/workergnome/authority-cascades-a-presentation-strategy-for-linked-open-data)
+[Presentation Slides](http://www.slideshare.net/workergnome/authority-cascades-a-presentation-strategy-for-linked-open-data)
 
 As Linked Open Data is increasingly embraced throughout the cultural heritage sector, we are moving from an environment of data scarcity to an environment of data overload.  For example, often we no longer have a single authority for the names and identities of the participants in some activity or event, but two, three, or even more.  Getty ULAN, VIAF, Wikidata, and other authorities provide a wealth of information about important people throughout history.  However, no authority is comprehensive, and due to the Open World Assumption different authorities may provide conflicting or inconsistent information about a single participant.
 
@@ -320,7 +320,7 @@ Building on scholarship addressing diversity in collection assessment, this pres
 {: #submission-41}
 
 *Sarah C. Stanley and Matthew E. Hunter*  
-[Presentation Slides] (http://www.slideshare.net/KeystoneDH/exploring-the-adoption-of-stem-praxis-in-the-digital-humanities)
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/exploring-the-adoption-of-stem-praxis-in-the-digital-humanities)
 
 As digital humanists assert themselves into the academic milieu, digital projects increasingly leverage scientific praxis for humanistic inquiry. The adoption of these practices engenders seemingly-ubiquitous digital scholarship buzzwords such as “project management,” “collaboration,” “interdisciplinarity,” and (in the scariest scare-quotes of all) “funding.” These concepts appear to be at odds with the classic image of the lone humanities scholar. While STEM researchers are accustomed to considering the influence of funding agendas on scholarship, collaborative attribution models, and product-driven scholarship, these are emergent questions for humanists.
 
@@ -503,7 +503,7 @@ Todd Bryant will be happy to show anyone interested how to implement the Annotat
 {: #submission-11}
 
 *Debra T. Cashion*  
-[Presentation Slides] (http://brokenbooks.omeka.net/exhibits/show/llangattock)
+[Presentation Slides](http://brokenbooks.omeka.net/exhibits/show/llangattock)
 
 For many antiquarian books and manuscripts, the inevitable consequence of increased value over time results in an unfortunate fate: they are taken apart, "broken" into pieces, sold for profit among various owners and institutional collections. As scattered fragments, however, detached leaves present to scholars frustrating glimpses of historically significant texts and decorative programs that cannot be fully studied without evidence of the original work and the context in which it was produced. The Broken Books resource allows for the virtual restoration of these dismembered books, so that they can be digitally recaptured, reordered, and reconstructed, at least as much as preserved leaves of are found. Under development at the Center of Digital Humanities at Saint Louis University, this project uses IIIF technology and the Mirador viewer to create a web-based application and linked data environment that not only allows a user/administrator to manage a virtual reconstruction, but also permits other users to contribute images and information, including cataloging metadata, about undiscovered leaves.
 
@@ -520,7 +520,7 @@ This project showcase exhibits the creation of a GIS story map of Wessex, the fi
 {: #submission-16}
 
 *Heather Hill*  
-[Presentation Slides] (http://www.slideshare.net/KeystoneDH/exploring-place-in-the-french-of-italy)
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/exploring-place-in-the-french-of-italy)
 
 From approximately 1250 to 1500, it became popular for writers in the Italian peninsula to create and copy works in the French language. Scholars studying these French of Italy texts have traditionally used close reading to explore the corpus, assuming a geographic orientation toward France. Newer scholarship challenges this notion, arguing that these texts taken together focus instead toward the east.
 
@@ -571,7 +571,7 @@ The Luther Works Visualization Project is meant to provide a resource for both L
 {: #submission-6}
 
 *Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey*  
-[Presentation Slides] (http://www.slideshare.net/KeystoneDH/mapping-the-imagined-south)
+[Presentation Slides](http://www.slideshare.net/KeystoneDH/mapping-the-imagined-south)
 
 This project showcase is a presentation of an ongoing project mapping place names that occur in 21st century cookbooks from the American South.
 
