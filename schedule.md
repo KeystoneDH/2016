@@ -47,7 +47,7 @@ Location: _Amy Knapp Room, Hillman Library_
 **Wednesday 1:30 - 3pm: Panel Presentation (Session 3)**  
 Location: _Hillman Library, Room 272_
 
-* Videogame Adaptation - *Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi* ([abstract](/2016/abstracts/#submission-5))
+* Videogame Adaptation - *Bradley J. Fest, Kevin M. Flanagan, and Jedd Hakimi* ([abstract](/2016/abstracts/#submission-5); [Hakimi slides](http://www.slideshare.net/KeystoneDH/playing-los-angeles-itself))
 
 **Wednesday 1:30 - 3pm: Long Papers (Session 4)**  
 Location: _Digital Scholarship Commons, Hillman Library_
@@ -130,7 +130,7 @@ Location: _Amy Knapp Room, Hillman Library_
 1. Exploring Place in the French of Italy - *Heather Hill* ([abstract](/2016/abstracts/#submission-16); [slides] (http://www.slideshare.net/KeystoneDH/exploring-place-in-the-french-of-italy))
 1. Six Degrees of Francis Bacon: A Project Showcase - *Jessica Otis* ([abstract](/2016/abstracts/#submission-19))
 1. Ticha: The Story of an International, Community-Engaged Digital Humanities Project - *Laurie Allen, Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk* ([abstract](/2016/abstracts/#submission-22); [slides](https://docs.google.com/presentation/d/1-2CPPCpLCwMOghenLVcVN0_a_O9AbUEOyb4rK6RoIGM/edit#slide=id.p))
-1. PA Digital and the DPLA: Collaborating on Collections as a Community - *Patricia Hswe* ([abstract](/2016/abstracts/#submission-35))
+1. PA Digital and the DPLA: Collaborating on Collections as a Community - *Patricia Hswe* ([abstract](/2016/abstracts/#submission-35); [slides](http://www.slideshare.net/KeystoneDH/pa-digital-and-the-dpla))
 1. The Restoration of Nell Nelson - *Rob Spadafore and Rebecca Parker* ([abstract](/2016/abstracts/#submission-38))
 
 **Thursday 12:30 - 2pm**
@@ -191,7 +191,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 1. Taking Flight: Expanding a Crowdsourcing Program in Support of New Research - *Mark Anderson* ([abstract](/2016/abstracts/#submission-25); [slides](http://www.slideshare.net/KeystoneDH/taking-flight-63417660))
 1. On the Diversity of Digital Decay - *Robert Sieczkiewicz* ([abstract](/2016/abstracts/#submission-40))
-1. Interdisciplinary Approaches to Metadata - *Tom Lombardi* ([abstract](/2016/abstracts/#submission-52))
+1. Interdisciplinary Approaches to Metadata - *Tom Lombardi* ([abstract](/2016/abstracts/#submission-52); [slides](http://www.slideshare.net/KeystoneDH/interdisciplinary-approaches-to-metadata))
 
 **Friday 9 - 10:30am: Long Papers (Session 14)**  
 Location: _Hillman Library, Room 272_
@@ -222,6 +222,6 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Friday 11am - 12:30pm: Long Papers (Session 17)**  
 Location: _Amy Knapp Room, Hillman Library_
 
-1. Git Started! - *Rebecca Parker* ([abstract](/2016/abstracts/#submission-37))
-1. Building and Managing a Digital English Studio: Collaborative Aspects - *Stuart Selber, Daniel Tripp, and Leslie Mateer* ([abstract](/2016/abstracts/#submission-44))
+1. Git Started! - *Rebecca Parker* ([abstract](/2016/abstracts/#submission-37); [slides](http://www.slideshare.net/KeystoneDH/git-started))
+1. Building and Managing a Digital English Studio: Collaborative Aspects - *Stuart Selber, Daniel Tripp, and Leslie Mateer* ([abstract](/2016/abstracts/#submission-44); [slides](http://www.slideshare.net/KeystoneDH/building-and-managing-a-digital-english-studio))
 1. R for Humanists: A Git Repository and Tutorial Approach - *Tassie Gniady and Grace Thomas* ([abstract](/2016/abstracts/#submission-49))
