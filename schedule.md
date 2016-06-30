@@ -30,7 +30,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 
 1. Augmenting the Historic House Museum: The Impact of Community Partnership and Augmented Reality on Visitor Experience at Riversdale House - *Quint Gregory, Nicole Riesenberger, and Caroline Paganussi* ([abstract](/2016/abstracts/#submission-36); [slides](http://www.slideshare.net/KeystoneDH/augmenting-the-historic-house-museum))
-2. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48); [slides] (http://www.slideshare.net/KeystoneDH/keystone-dh-slides))
+2. Augmented Reality Collaboration: The Augmented Palimpsest Project - *Tamara O'Callaghan and Andrea R. Harbin* ([abstract](/2016/abstracts/#submission-48); [slides](http://www.slideshare.net/KeystoneDH/keystone-dh-slides))
 3. Augmented Reality as a Platform for Collaboration - *Robert Fletcher* ([abstract](/2016/abstracts/#submission-39))
 
 **Wednesday 10 - 11:30am: Long Papers (Session 2)**  
@@ -54,7 +54,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 1. "What Does It Matter Where One Lives?": Spatial Mapping and Edith Wharton's _The Age of Innocence_ - *Meredith Goldsmith* ([abstract](/2016/abstracts/#submission-32))
 2. German POWs in the Soviet Gulag: Mapping Their Experiences, 1941-1956 - *Susan Grunewald* ([abstract](/2016/abstracts/#submission-46))
-3. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42); [slides] (http://www.slideshare.net/KeystoneDH/translation-analysis-with-tei-robert-southeys-amadis-of-gaul-stacey-triplette-and-elisa-besherobondar))
+3. Translation analysis with TEI: Robert Southey’s _Amadis of Gaul_ - *Stacey Triplette and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-42); [slides](http://www.slideshare.net/KeystoneDH/translation-analysis-with-tei-robert-southeys-amadis-of-gaul-stacey-triplette-and-elisa-besherobondar))
 
 **Wednesday 1:30 - 3pm: Workshop (Session 5)**  
 Location: _Amy Knapp Room, Hillman Library_
@@ -96,7 +96,7 @@ Location: _Hillman Library, Room 272_
 Location: _Amy Knapp Room, Hillman Library_
 
 1. The Ethics of Networked Pedagogies: Examining the Collaborative Learning Practices of Online Gaming Communities - *Matthew Kelly* ([abstract](/2016/abstracts/#submission-30))
-2. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41); [slides] (http://www.slideshare.net/KeystoneDH/exploring-the-adoption-of-stem-praxis-in-the-digital-humanities))
+2. Exploring the Adoption of STEM Praxis in the Digital Humanities - *Sarah C. Stanley and Matthew E. Hunter* ([abstract](/2016/abstracts/#submission-41); [slides](http://www.slideshare.net/KeystoneDH/exploring-the-adoption-of-stem-praxis-in-the-digital-humanities))
 2. Mobile Media Storytelling in the Cultural Heritage Sector - *Chelsea Gunn and Aisling Quigley* ([abstract](/2016/abstracts/#submission-61))
 
 **Thursday 9 - 10:30am: Short Papers (Session 8)**  
@@ -117,7 +117,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 Location: _Digital Scholarship Commons, Hillman Library_
 
 1. Taking Livingstone Online across Disciplines, Institutions, and Continents  - *Adrian Wisnicki and Ashanka Kumari* ([abstract](/2016/abstracts/#submission-1))
-1. Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks - *Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey* ([abstract](/2016/abstracts/#submission-6); [slides] (http://www.slideshare.net/KeystoneDH/mapping-the-imagined-south))
+1. Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks - *Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey* ([abstract](/2016/abstracts/#submission-6); [slides](http://www.slideshare.net/KeystoneDH/mapping-the-imagined-south))
 1. The Luther Works Visualization Project - *Chuck Steel* ([abstract](/2016/abstracts/#submission-8))
 1. Broken Books - *Debra T. Cashion* ([abstract](/2016/abstracts/#submission-11); [slides](http://brokenbooks.omeka.net/exhibits/show/llangattock))
 1. A Digital and Naturalistic Landscape of Thomas Hardy’s Wessex - *Erica Y. Hayes* ([abstract](/2016/abstracts/#submission-14))
@@ -127,7 +127,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Thursday 11 - 12:30pm: Project Showcases (Session 9b)**  
 Location: _Amy Knapp Room, Hillman Library_
 
-1. Exploring Place in the French of Italy - *Heather Hill* ([abstract](/2016/abstracts/#submission-16); [slides] (http://www.slideshare.net/KeystoneDH/exploring-place-in-the-french-of-italy))
+1. Exploring Place in the French of Italy - *Heather Hill* ([abstract](/2016/abstracts/#submission-16); [slides](http://www.slideshare.net/KeystoneDH/exploring-place-in-the-french-of-italy))
 1. Six Degrees of Francis Bacon: A Project Showcase - *Jessica Otis* ([abstract](/2016/abstracts/#submission-19))
 1. Ticha: The Story of an International, Community-Engaged Digital Humanities Project - *Laurie Allen, Brook Danielle Lillehaugen, George Aaron Broadwell, Mike Zarafoneti, and Michel R. Oudijk* ([abstract](/2016/abstracts/#submission-22); [slides](https://docs.google.com/presentation/d/1-2CPPCpLCwMOghenLVcVN0_a_O9AbUEOyb4rK6RoIGM/edit#slide=id.p))
 1. PA Digital and the DPLA: Collaborating on Collections as a Community - *Patricia Hswe* ([abstract](/2016/abstracts/#submission-35); [slides](http://www.slideshare.net/KeystoneDH/pa-digital-and-the-dpla))
@@ -216,7 +216,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 
 1. Towards Collaborative, Accessible Journal Publishing - *Hal Hinderliter* ([abstract](/2016/abstracts/#submission-15))
 1. Toward a Taxonomy of Collaboration - *Jacob Heil* ([abstract](/2016/abstracts/#submission-17))
-1. What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_ - *Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-28); [slides] (http://www.slideshare.net/KeystoneDH/what-might-an-archive-know))
+1. What Might an Archive “Know”?: Annotation through Recursion in _Digital Mitford: The Mary Russell Mitford Archive_ - *Mary Erica Zimmer, Molly O'Donnell, and Elisa Beshero-Bondar* ([abstract](/2016/abstracts/#submission-28); [slides](http://www.slideshare.net/KeystoneDH/what-might-an-archive-know))
 
 
 **Friday 11am - 12:30pm: Long Papers (Session 17)**  
