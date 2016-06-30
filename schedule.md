@@ -156,7 +156,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 **Thursday 2 - 3:30pm: Workshop (Session 12)**  
 Location: _Amy Knapp Room, Hillman Library_
 
-* TEI for Historical Manuscripts and Letters: A Beginner's Workshop on Transcription, Metadata, Paleography and Code - *Elisa Beshero-Bondar, Lisa Wilson, and Amy Gates* ([abstract](/2016/abstracts/#submission-12); [slides](http://prezi.com/vjioygr_6-j9/?utm_campaign=share&utm_medium=copy)) - [Workshop Materials](https://drive.google.com/folderview?id=0B7bgSLLeaaMWV29acEQ3d1FUVWs&usp=drive_web) Participants are **not required** to download and install oXygen, but we **invite** them to do it if they're interested.
+* TEI for Historical Manuscripts and Letters: A Beginner's Workshop on Transcription, Metadata, Paleography and Code - *Elisa Beshero-Bondar, Lisa Wilson, and Amy Gates* ([abstract](/2016/abstracts/#submission-12); [slides](http://prezi.com/vjioygr_6-j9/?utm_campaign=share&utm_medium=copy)) - [Workshop Materials](https://drive.google.com/folderview?id=0B7bgSLLeaaMWV29acEQ3d1FUVWs&usp=drive_web))
 
 **Thursday 3:30 - 4pm**  
 Location: _Digital Scholarship Commons, Hillman Library_
