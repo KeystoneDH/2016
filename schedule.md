@@ -204,7 +204,7 @@ Location: _Amy Knapp Room, Hillman Library_
 
 1. Digital Text Encoding of 18th-Century French Novels Reveals Modern Misconceptions About Narrative Structure - *Benjamin H. Baker* ([abstract](/2016/abstracts/#submission-2))
 1. Topic Modeling Communities of Discourse in Doctoral Dissertations - *Benjamin Miller* ([abstract](/2016/abstracts/#submission-3))
-1. Emily Dickinson: Fascicle 16 - *Nicole Lottig, Brooke Stewart, and Brooke Lawrence* ([abstract](/2016/abstracts/#submission-34))
+1. Emily Dickinson: Fascicle 16 - *Nicole Lottig, Brooke Stewart, and Brooke Lawrence* ([abstract](/2016/abstracts/#submission-34); [project website](http://dickinson16.newtfire.org/))
 
 **Friday 10:30 - 11am**  
 Location: _Digital Scholarship Commons, Hillman Library_
