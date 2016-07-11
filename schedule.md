@@ -120,7 +120,7 @@ Location: _Digital Scholarship Commons, Hillman Library_
 1. Mapping the Imagined South: GIS Mapping of Contemporary Southern Cookbooks - *Carrie Tippen,  Lisa Cuyler, Kaitlyn Shirey, Tessa Webber, and Rachel Geffrey* ([abstract](/2016/abstracts/#submission-6); [slides](http://www.slideshare.net/KeystoneDH/mapping-the-imagined-south))
 1. The Luther Works Visualization Project - *Chuck Steel* ([abstract](/2016/abstracts/#submission-8))
 1. Broken Books - *Debra T. Cashion* ([abstract](/2016/abstracts/#submission-11); [slides](http://brokenbooks.omeka.net/exhibits/show/llangattock))
-1. A Digital and Naturalistic Landscape of Thomas Hardy’s Wessex - *Erica Y. Hayes* ([abstract](/2016/abstracts/#submission-14))
+1. A Digital and Naturalistic Landscape of Thomas Hardy’s Wessex - *Erica Y. Hayes* ([abstract](/2016/abstracts/#submission-14); [slides](http://www.slideshare.net/KeystoneDH/a-digital-and-naturalistic-landscape-of-thomas-hardys-wessex-63914406); [project website](http://scalar.usc.edu/works/mapping-wessex))
 1. Text Annotation Modules and 19th-Century Literature - *Todd Bryant and Sarah Kersh* ([abstract](/2016/abstracts/#submission-51); [slides](http://www.slideshare.net/KeystoneDH/text-annotation-modules-and-19thcentury-literature))
 
 
